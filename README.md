@@ -21,3 +21,5 @@ The most current data available can be found on www.bing.com/covid and in the Bi
 COVID tracking data comes from a wide set of sources that update at different times and may not always align.
 
 Learn more about the Bing COVID-19 widget [here](https://www.bing.com/covid/dev#widget).
+
+#### Please reachout to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data. 
