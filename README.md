@@ -15,7 +15,7 @@ This information is available strictly for educational and academic purposes, su
 Sources don't always provide counts for all data points, especially recovered case counts. The '-' symbol indicates where data is unavailable. In the dataset published in GitHub, the data field will be blank where data is unavailable.
 
 ### Where can I see the latest data?
-The most current data available can be found on www.bing.com/covid and in the Bing COVID-19 widget. You can find more information about the Bing COVID-19 widget [here](www.bing.com/covid/dev#widget).
+The most current data available can be found on www.bing.com/covid and in the Bing COVID-19 widget. You can find more information about the Bing COVID-19 widget [here](https://www.bing.com/covid/dev#widget).
  
 ### Why is COVID data different on every website?
 COVID tracking data comes from a wide set of sources that update at different times and may not always align.
