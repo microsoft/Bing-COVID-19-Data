@@ -24,4 +24,4 @@ YYYY-MM-DD.csv
 |AdminRegion2| Region within AdminRegion1 |
 
 ## Update frequency
-The data is updated once a day (around 1PM PST).
+The data is updated once a day (around 3AM PST).
