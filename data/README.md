@@ -1,7 +1,7 @@
 # Bing COVID-19 Data info
 
 ## File naming convention 
-YYYY-MM-DD.csv 
+Bing-COVID19-Data.csv is the static filename for the aggregated COVID-19 case count data 
 
 ## Column descriptions 
 
