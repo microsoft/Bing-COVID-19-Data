@@ -20,6 +20,7 @@ The most current data available can be found on www.bing.com/covid and in the Bi
 ### Why is COVID data different on every website?
 COVID tracking data comes from a wide set of sources that update at different times and may not always align.
 
-Learn more about the Bing COVID-19 widget [here](https://www.bing.com/covid/dev#widget).
+### What about the Bing COVID-19 Widget?
+Learn more about the Bing COVID-19 widget [here](https://github.com/microsoft/COVID-19-Widget).
 
 #### Please reachout to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data. 
