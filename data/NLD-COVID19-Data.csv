@@ -1,3 +1,4 @@
+ID;Updated;Confirmed;ConfirmedChange;Deaths;DeathsChange;Recovered;RecoveredChange;Latitude;Longitude;ISO2;ISO3;Country_Region;AdminRegion1;AdminRegion2
 7159936;02/27/2020;1;;0;;;;52.34;5.53;NL;NLD;Netherlands;;
 7159938;02/28/2020;2;1;0;0;;;52.34;5.53;NL;NLD;Netherlands;;
 7159941;02/29/2020;6;4;0;0;;;52.34;5.53;NL;NLD;Netherlands;;
