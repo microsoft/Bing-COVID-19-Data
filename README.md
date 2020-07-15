@@ -23,4 +23,4 @@ COVID tracking data comes from a wide set of sources that update at different ti
 ### What about the Bing COVID-19 Widget?
 Learn more about the Bing COVID-19 widget [here](https://github.com/microsoft/COVID-19-Widget).
 
-#### Please reachout to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data. 
+#### Please reach out to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data. 
