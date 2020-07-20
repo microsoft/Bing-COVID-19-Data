@@ -1,4 +1,4 @@
-[
+export const nld_gemeente_3_0804_2104_2020: any[] = [
   {
     "Gemeente": "'s-Gravenhage (gemeente)",
     "Totaal_Absoluut": 460,
