@@ -1,23 +1,23 @@
 import { IRivmJsonData } from '../../interfaces/i-rivm-jsondata';
 
-export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
+export const nld_gemeente_9_1606_2906_2020: IRivmJsonData[] = [
   {
     Gemeente: "'s-Gravenhage (gemeente)",
-    Totaal_Absoluut: 152,
-    Totaal_inc100000: "27,8",
-    Zkh_Absoluut: 12,
-    Zkh_inc100000: "2,2",
-    Overleden_Absoluut: 29,
-    Overleden_inc100000: "5,3"
+    Totaal_Absoluut: 96,
+    Totaal_inc100000: "17,6",
+    Zkh_Absoluut: 2,
+    Zkh_inc100000: "0,4",
+    Overleden_Absoluut: 5,
+    Overleden_inc100000: "0,9"
   },
   {
     Gemeente: "'s-Hertogenbosch",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "5,2",
+    Totaal_Absoluut: 10,
+    Totaal_inc100000: "6,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "1,3"
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "0,6"
   },
   {
     Gemeente: "Aa en Hunze",
@@ -30,21 +30,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Aalsmeer",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "3,1",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "6,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Aalten",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "3,7",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,7",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,7"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Achtkarspelen",
@@ -57,62 +57,62 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Alblasserdam",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "14,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 5,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Albrandswaard",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "31,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,9",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,9"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Alkmaar",
-    Totaal_Absoluut: 15,
-    Totaal_inc100000: "13,7",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "0,9",
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "3,7"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "1,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Almelo",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "1,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,4",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "2,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Almere",
-    Totaal_Absoluut: 52,
-    Totaal_inc100000: "24,5",
-    Zkh_Absoluut: 4,
-    Zkh_inc100000: "1,9",
-    Overleden_Absoluut: 8,
-    Overleden_inc100000: "3,8"
+    Totaal_Absoluut: 10,
+    Totaal_inc100000: "4,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Alphen aan den Rijn",
-    Totaal_Absoluut: 28,
-    Totaal_inc100000: 25,
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "4,5",
     Zkh_Absoluut: 1,
     Zkh_inc100000: "0,9",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "0,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Alphen-Chaam",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "9,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -120,8 +120,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Altena",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "5,4",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -138,10 +138,10 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Amersfoort",
-    Totaal_Absoluut: 15,
-    Totaal_inc100000: "9,5",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "1,3",
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "3,8",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "0,6",
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
@@ -156,12 +156,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Amsterdam",
-    Totaal_Absoluut: 199,
-    Totaal_inc100000: "22,8",
-    Zkh_Absoluut: 25,
-    Zkh_inc100000: "2,9",
-    Overleden_Absoluut: 35,
-    Overleden_inc100000: 4
+    Totaal_Absoluut: 102,
+    Totaal_inc100000: "11,7",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "0,1",
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "0,1"
   },
   {
     Gemeente: "Apeldoorn",
@@ -169,8 +169,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "7,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "1,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Appingedam",
@@ -183,12 +183,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Arnhem",
-    Totaal_Absoluut: 15,
-    Totaal_inc100000: "9,3",
+    Totaal_Absoluut: 11,
+    Totaal_inc100000: "6,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "1,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Assen",
@@ -205,13 +205,13 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 6
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Baarle-Nassau",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "29,2",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -219,8 +219,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Baarn",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: 8,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: 4,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -228,17 +228,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Barendrecht",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "14,4",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "4,1",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "8,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Barneveld",
-    Totaal_Absoluut: 13,
-    Totaal_inc100000: 22,
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "10,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -246,8 +246,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Beek (L.)",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "6,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -255,12 +255,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Beekdaelen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "19,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,8",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,8"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Beemster",
@@ -282,105 +282,15 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Berg en Dal",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "14,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,9",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,9"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Bergeijk",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "21,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "5,4",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Bergen (L.)",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "7,6",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Bergen (NH.)",
-    Totaal_Absoluut: 22,
-    Totaal_inc100000: "73,7",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,4"
-  },
-  {
-    Gemeente: "Bergen op Zoom",
-    Totaal_Absoluut: 31,
-    Totaal_inc100000: "45,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,5",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,5"
-  },
-  {
-    Gemeente: "Berkelland",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "6,9",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Bernheze",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "9,6",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,2"
-  },
-  {
-    Gemeente: "Best",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: 20,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Beuningen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: 27,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Beverwijk",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: 12,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Bladel",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "29,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,9",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Blaricum",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -389,9 +299,99 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Bloemendaal",
+    Gemeente: "Bergen (L.)",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Bergen (NH.)",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Bergen op Zoom",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "1,5"
+  },
+  {
+    Gemeente: "Berkelland",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Bernheze",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: 16,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Best",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Beuningen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Beverwijk",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Bladel",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "24,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Blaricum",
     Totaal_Absoluut: 3,
-    Totaal_inc100000: "12,7",
+    Totaal_inc100000: 26,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Bloemendaal",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -399,8 +399,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Bodegraven-Reeuwijk",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "20,1",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "14,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -426,8 +426,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Borne",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "4,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -435,8 +435,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Borsele",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "17,6",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -444,35 +444,35 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Boxmeer",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "3,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,4",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,4"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Boxtel",
-    Totaal_Absoluut: 23,
-    Totaal_inc100000: "74,7",
+    Totaal_Absoluut: 12,
+    Totaal_inc100000: 39,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 6,
-    Overleden_inc100000: "19,5"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Breda",
     Totaal_Absoluut: 15,
     Totaal_inc100000: "8,1",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "1,1"
+    Zkh_Absoluut: 2,
+    Zkh_inc100000: "1,1",
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "0,5"
   },
   {
     Gemeente: "Brielle",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "5,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -480,35 +480,35 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Bronckhorst",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "5,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Brummen",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "14,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Brunssum",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "32,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,6",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "10,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
     Overleden_inc100000: "3,6"
   },
   {
     Gemeente: "Bunnik",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "26,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -525,28 +525,28 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Buren",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "7,5",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,7"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Capelle aan den IJssel",
-    Totaal_Absoluut: 20,
-    Totaal_inc100000: "29,8",
-    Zkh_Absoluut: 5,
-    Zkh_inc100000: "7,4",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: 3
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "7,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Castricum",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "5,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
@@ -561,8 +561,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Cranendonck",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "14,2",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -570,12 +570,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Cuijk",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: 4,
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "11,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 4
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Culemborg",
@@ -588,8 +588,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Dalfsen",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,5",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -606,26 +606,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "De Bilt",
-    Totaal_Absoluut: 24,
-    Totaal_inc100000: "55,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,3",
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: 7
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: 7,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "De Fryske Marren",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "11,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,9",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "3,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "De Ronde Venen",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "6,7",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "4,5",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -637,17 +637,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "4,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Delft",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "9,7",
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "5,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "1,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Delfzijl",
@@ -664,31 +664,31 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Deurne",
-    Totaal_Absoluut: 16,
-    Totaal_inc100000: "49,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,1",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "6,2"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Deventer",
-    Totaal_Absoluut: 26,
-    Totaal_inc100000: "25,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 1,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: 3
+    Totaal_Absoluut: 28,
+    Totaal_inc100000: "27,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Diemen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "22,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -714,8 +714,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Doetinchem",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "6,9",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "3,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -727,22 +727,22 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "3,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "7,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Dordrecht",
-    Totaal_Absoluut: 129,
-    Totaal_inc100000: "108,1",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "1,7",
-    Overleden_Absoluut: 9,
-    Overleden_inc100000: "7,5"
+    Totaal_Absoluut: 9,
+    Totaal_inc100000: "7,5",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "0,8",
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "0,8"
   },
   {
     Gemeente: "Drechterland",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "10,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -750,8 +750,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Drimmelen",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: 11,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -759,8 +759,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Dronten",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "14,4",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "7,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -768,8 +768,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Druten",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -786,87 +786,6 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Echt-Susteren",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "12,7",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Edam-Volendam",
-    Totaal_Absoluut: 18,
-    Totaal_inc100000: "49,7",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "8,3",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Ede",
-    Totaal_Absoluut: 11,
-    Totaal_inc100000: "9,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "0,9",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Eemnes",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "32,4",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Eersel",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "15,5",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "5,2"
-  },
-  {
-    Gemeente: "Eijsden-Margraten",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "38,8",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "7,8",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,9"
-  },
-  {
-    Gemeente: "Eindhoven",
-    Totaal_Absoluut: 31,
-    Totaal_inc100000: "13,2",
-    Zkh_Absoluut: 7,
-    Zkh_inc100000: 3,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "1,3"
-  },
-  {
-    Gemeente: "Elburg",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "30,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Emmen",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "0,9",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Enkhuizen",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -875,40 +794,121 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Enschede",
-    Totaal_Absoluut: 28,
-    Totaal_inc100000: "17,5",
+    Gemeente: "Edam-Volendam",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "2,5"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Ede",
+    Totaal_Absoluut: 7,
+    Totaal_inc100000: 6,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Eemnes",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Eersel",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,2",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "5,2",
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Eijsden-Margraten",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Eindhoven",
+    Totaal_Absoluut: 9,
+    Totaal_inc100000: "3,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Elburg",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Emmen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Enkhuizen",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Enschede",
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "3,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Epe",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "12,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 3
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Ermelo",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "22,2",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,7",
-    Overleden_Absoluut: 7,
-    Overleden_inc100000: "25,9"
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "14,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Etten-Leur",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "13,7",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "6,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "6,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Geertruidenberg",
@@ -921,8 +921,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Geldrop-Mierlo",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "10,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -930,12 +930,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Gemert-Bakel",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "9,8",
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: 13,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "3,3"
   },
   {
     Gemeente: "Gennep",
@@ -948,6 +948,24 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Gilze en Rijen",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "7,6",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Goeree-Overflakkee",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: 4,
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: 2,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Goes",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -956,29 +974,11 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Goeree-Overflakkee",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: 20,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 2
-  },
-  {
-    Gemeente: "Goes",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,6"
-  },
-  {
     Gemeente: "Goirle",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "12,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,2",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "8,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
@@ -988,40 +988,40 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "12,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,7"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Gorinchem",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "10,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,7",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,7"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "5,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Gouda",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "10,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,4",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,4"
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "6,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Grave",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "24,1",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 8,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 8
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Groningen (gemeente)",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "0,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1029,17 +1029,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Gulpen-Wittem",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "7,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "7,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Haaksbergen",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "8,2",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1047,8 +1047,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Haaren",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "48,7",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "13,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1056,26 +1056,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Haarlem",
-    Totaal_Absoluut: 19,
-    Totaal_inc100000: "11,7",
+    Totaal_Absoluut: 8,
+    Totaal_inc100000: "4,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "1,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Haarlemmermeer",
-    Totaal_Absoluut: 44,
-    Totaal_inc100000: "28,2",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "0,6",
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "2,6"
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "1,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Halderberge",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,6",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1083,8 +1083,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Hardenberg",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "3,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1092,24 +1092,195 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Harderwijk",
-    Totaal_Absoluut: 14,
-    Totaal_inc100000: "28,9",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "6,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "4,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Hardinxveld-Giessendam",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "16,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "5,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Harlingen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hattem",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "8,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heemskerk",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "5,1",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heemstede",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "7,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heerde",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heerenveen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heerhugowaard",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heerlen",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "2,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heeze-Leende",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "6,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heiloo",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hellendoorn",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hellevoetsluis",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Helmond",
+    Totaal_Absoluut: 9,
+    Totaal_inc100000: "9,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hendrik-Ido-Ambacht",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hengelo (O.)",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "2,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Het Hogeland",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "6,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heumen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Heusden",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hillegom",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hilvarenbeek",
     Totaal_Absoluut: 1,
     Totaal_inc100000: "6,4",
     Zkh_Absoluut: 0,
@@ -1118,198 +1289,27 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Hattem",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Heemskerk",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "7,7",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "5,1",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,6"
-  },
-  {
-    Gemeente: "Heemstede",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,7"
-  },
-  {
-    Gemeente: "Heerde",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "37,7",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "10,8",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Heerenveen",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: 4,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Heerhugowaard",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "5,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Heerlen",
-    Totaal_Absoluut: 20,
-    Totaal_inc100000: 23,
-    Zkh_Absoluut: 5,
-    Zkh_inc100000: "5,7",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,1"
-  },
-  {
-    Gemeente: "Heeze-Leende",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "18,6",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Heiloo",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "12,5",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hellendoorn",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "11,1",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hellevoetsluis",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: 10,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Helmond",
-    Totaal_Absoluut: 21,
-    Totaal_inc100000: "22,7",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "3,2",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hendrik-Ido-Ambacht",
-    Totaal_Absoluut: 13,
-    Totaal_inc100000: "41,7",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,2",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "6,4"
-  },
-  {
-    Gemeente: "Hengelo (O.)",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "7,4",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Het Hogeland",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "2,1",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
-  },
-  {
-    Gemeente: "Heumen",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "18,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "6,1"
-  },
-  {
-    Gemeente: "Heusden",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "2,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "4,5"
-  },
-  {
-    Gemeente: "Hillegom",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "13,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,5",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hilvarenbeek",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "19,3",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "6,4"
-  },
-  {
     Gemeente: "Hilversum",
     Totaal_Absoluut: 17,
     Totaal_inc100000: "18,7",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "3,3"
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "1,1",
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Hoeksche Waard",
-    Totaal_Absoluut: 16,
-    Totaal_inc100000: "18,3",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "3,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Hof van Twente",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "2,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1317,24 +1317,6 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Hollands Kroon",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "4,1",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hoogeveen",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "7,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Hoorn",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -1343,31 +1325,49 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Horst aan de Maas",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "2,4",
+    Gemeente: "Hoogeveen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,4"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Hoorn",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "2,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Horst aan de Maas",
+    Totaal_Absoluut: 9,
+    Totaal_inc100000: "21,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Houten",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: 10,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 2
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Huizen",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "19,4",
+    Totaal_Absoluut: 14,
+    Totaal_inc100000: "33,9",
     Zkh_Absoluut: 1,
     Zkh_inc100000: "2,4",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "4,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Hulst",
@@ -1380,12 +1380,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "IJsselstein",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "14,7",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Kaag en Braassem",
@@ -1398,8 +1398,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Kampen",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "18,4",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1407,8 +1407,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Kapelle",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "7,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1416,21 +1416,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Katwijk",
-    Totaal_Absoluut: 11,
-    Totaal_inc100000: "16,7",
+    Totaal_Absoluut: 13,
+    Totaal_inc100000: "19,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,5"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Kerkrade",
-    Totaal_Absoluut: 12,
-    Totaal_inc100000: "26,2",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,2",
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "8,7"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Koggenland",
@@ -1443,8 +1443,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Krimpen aan den IJssel",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "16,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1452,26 +1452,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Krimpenerwaard",
-    Totaal_Absoluut: 17,
-    Totaal_inc100000: "30,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 5,
-    Overleden_inc100000: "8,9"
-  },
-  {
-    Gemeente: "Laarbeek",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "35,5",
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "10,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
-    Overleden_inc100000: "4,4"
+    Overleden_inc100000: "1,8"
+  },
+  {
+    Gemeente: "Laarbeek",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Landerd",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "12,7",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "6,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1479,17 +1479,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Landgraaf",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "10,7",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,7"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Landsmeer",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "8,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1497,8 +1497,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Langedijk",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "7,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1506,25 +1506,7 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Lansingerland",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "12,8",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "3,2"
-  },
-  {
-    Gemeente: "Laren (NH.)",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "8,9",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Leeuwarden",
-    Totaal_Absoluut: 4,
+    Totaal_Absoluut: 2,
     Totaal_inc100000: "3,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
@@ -1532,18 +1514,36 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Leiden",
-    Totaal_Absoluut: 17,
-    Totaal_inc100000: "13,6",
+    Gemeente: "Laren (NH.)",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "1,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Leeuwarden",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "0,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Leiden",
+    Totaal_Absoluut: 8,
+    Totaal_inc100000: "6,4",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "0,8",
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Leiderdorp",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "7,4",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "11,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1551,66 +1551,66 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Leidschendam-Voorburg",
-    Totaal_Absoluut: 16,
-    Totaal_inc100000: "20,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,3",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "2,6"
+    Totaal_Absoluut: 18,
+    Totaal_inc100000: "23,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Lelystad",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "12,7",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,3",
-    Overleden_Absoluut: 5,
-    Overleden_inc100000: "6,4"
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "5,1",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Leudal",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "11,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "5,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Leusden",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,6",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,3"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Lingewaard",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "10,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Lisse",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "13,1",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,4",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Lochem",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "14,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 3,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 3
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "5,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Loon op Zand",
@@ -1627,8 +1627,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "6,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "6,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Loppersum",
@@ -1650,8 +1650,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Maasdriel",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: 16,
+    Totaal_Absoluut: 7,
+    Totaal_inc100000: 28,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1659,80 +1659,80 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Maasgouw",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "16,7",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "8,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "8,3"
-  },
-  {
-    Gemeente: "Maassluis",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "24,1",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: 6,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
+    Gemeente: "Maassluis",
+    Totaal_Absoluut: 21,
+    Totaal_inc100000: "63,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 2,
+    Overleden_inc100000: 6
+  },
+  {
     Gemeente: "Maastricht",
-    Totaal_Absoluut: 121,
-    Totaal_inc100000: "99,5",
-    Zkh_Absoluut: 7,
-    Zkh_inc100000: "5,8",
-    Overleden_Absoluut: 16,
-    Overleden_inc100000: "13,2"
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "2,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Medemblik",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "4,4",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "2,2",
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Meerssen",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "47,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "5,3",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "5,3"
-  },
-  {
-    Gemeente: "Meierijstad",
-    Totaal_Absoluut: 14,
-    Totaal_inc100000: "17,2",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,2",
-    Overleden_Absoluut: 6,
-    Overleden_inc100000: "7,4"
-  },
-  {
-    Gemeente: "Meppel",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "8,8",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "10,6",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Middelburg (Z.)",
+    Gemeente: "Meierijstad",
     Totaal_Absoluut: 4,
-    Totaal_inc100000: "8,2",
+    Totaal_inc100000: "4,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Meppel",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
-    Overleden_inc100000: 2
+    Overleden_inc100000: "2,9"
+  },
+  {
+    Gemeente: "Middelburg (Z.)",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "4,1",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Midden-Delfland",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "10,3",
+    Totaal_Absoluut: 8,
+    Totaal_inc100000: "41,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1740,24 +1740,6 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Midden-Drenthe",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: 6,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Midden-Groningen",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "1,6",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Mill en Sint Hubert",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -1766,17 +1748,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Moerdijk",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "16,2",
+    Gemeente: "Midden-Groningen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Molenlanden",
-    Totaal_Absoluut: 4,
+    Gemeente: "Mill en Sint Hubert",
+    Totaal_Absoluut: 1,
     Totaal_inc100000: "9,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
@@ -1784,18 +1766,36 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Montferland",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "5,6",
+    Gemeente: "Moerdijk",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Molenlanden",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Montferland",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "8,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Montfoort",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "21,6",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1814,10 +1814,10 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Gemeente: "Neder-Betuwe",
     Totaal_Absoluut: 6,
     Totaal_inc100000: "24,7",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "8,2",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "4,1"
   },
   {
     Gemeente: "Nederweert",
@@ -1830,12 +1830,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Nieuwegein",
-    Totaal_Absoluut: 17,
-    Totaal_inc100000: "26,8",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "3,2",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,6"
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "6,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Nieuwkoop",
@@ -1857,26 +1857,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Nijmegen",
-    Totaal_Absoluut: 46,
-    Totaal_inc100000: "25,9",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "1,7",
-    Overleden_Absoluut: 8,
-    Overleden_inc100000: "4,5"
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "2,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Nissewaard",
-    Totaal_Absoluut: 12,
-    Totaal_inc100000: "14,1",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "2,3",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,2"
+    Totaal_Absoluut: 7,
+    Totaal_inc100000: "8,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Noardeast-FryslÃ¢n",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "4,4",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1884,8 +1884,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Noord-Beveland",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "27,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1902,8 +1902,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Noordoostpolder",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "12,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1913,24 +1913,24 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Gemeente: "Noordwijk",
     Totaal_Absoluut: 4,
     Totaal_inc100000: "9,2",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "4,6",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "2,3",
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Nuenen, Gerwen en Nederwetten",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "17,1",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,3",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "4,3"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Nunspeet",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "35,9",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,6",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1938,8 +1938,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oegstgeest",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "8,1",
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "16,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1947,8 +1947,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oirschot",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "5,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1956,12 +1956,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oisterwijk",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "22,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,8",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "7,6"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "7,6",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Oldambt",
@@ -1969,13 +1969,13 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "5,2"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Oldebroek",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "16,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1983,8 +1983,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oldenzaal",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -1992,8 +1992,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Olst-Wijhe",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "16,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2010,21 +2010,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oost Gelre",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "10,1",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "6,8",
+    Totaal_Absoluut: 10,
+    Totaal_inc100000: "33,8",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "3,4",
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Oosterhout",
-    Totaal_Absoluut: 16,
-    Totaal_inc100000: "28,6",
-    Zkh_Absoluut: 4,
-    Zkh_inc100000: "7,1",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "3,6"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Ooststellingwerf",
@@ -2041,8 +2041,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "10,3"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Opmeer",
@@ -2068,8 +2068,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "8,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Oude IJsselstreek",
@@ -2091,8 +2091,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Oudewater",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "29,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2100,30 +2100,30 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Overbetuwe",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "10,4",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Papendrecht",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "31,1",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,1",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "15,6",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Peel en Maas",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "11,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,3",
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "6,9"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Pekela",
@@ -2136,26 +2136,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Pijnacker-Nootdorp",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: 9,
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "5,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Purmerend",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "12,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,2",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "2,5"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Putten",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "4,1",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "8,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2163,17 +2163,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Raalte",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "15,9",
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "10,6",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,7"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Reimerswaal",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "4,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2181,8 +2181,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Renkum",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2208,48 +2208,48 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Rheden",
-    Totaal_Absoluut: 8,
-    Totaal_inc100000: "18,3",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "4,6",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Rhenen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "34,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 5,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Ridderkerk",
-    Totaal_Absoluut: 18,
-    Totaal_inc100000: 39,
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,2",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,2"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "4,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Rijssen-Holten",
-    Totaal_Absoluut: 36,
-    Totaal_inc100000: "94,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,6",
-    Overleden_Absoluut: 7,
-    Overleden_inc100000: "18,3"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "5,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Rijswijk (ZH.)",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "18,4",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "9,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "5,5"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Roerdalen",
@@ -2262,30 +2262,30 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Roermond",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "10,3",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,7",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,7"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Roosendaal",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "7,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,3",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,3"
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "3,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Rotterdam",
-    Totaal_Absoluut: 205,
-    Totaal_inc100000: "31,5",
-    Zkh_Absoluut: 29,
-    Zkh_inc100000: "4,5",
-    Overleden_Absoluut: 38,
-    Overleden_inc100000: "5,8"
+    Totaal_Absoluut: 103,
+    Totaal_inc100000: "15,8",
+    Zkh_Absoluut: 6,
+    Zkh_inc100000: "0,9",
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "0,2"
   },
   {
     Gemeente: "Rozendaal",
@@ -2298,26 +2298,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Rucphen",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "17,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "4,4"
+  },
+  {
+    Gemeente: "Schagen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Schagen",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "2,2",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,2"
-  },
-  {
     Gemeente: "Scherpenzeel",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "40,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2325,12 +2325,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Schiedam",
-    Totaal_Absoluut: 27,
-    Totaal_inc100000: "34,3",
-    Zkh_Absoluut: 8,
-    Zkh_inc100000: "10,2",
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "3,8"
+    Totaal_Absoluut: 17,
+    Totaal_inc100000: "21,6",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "1,3",
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Schiermonnikoog",
@@ -2343,26 +2343,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Schouwen-Duiveland",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "29,6",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "5,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "8,9"
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: 3
   },
   {
     Gemeente: "Simpelveld",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "47,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "9,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Sint Anthonis",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "8,6",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2370,26 +2370,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Sint-Michielsgestel",
-    Totaal_Absoluut: 11,
-    Totaal_inc100000: "37,7",
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "20,5",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "6,8"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Sittard-Geleen",
-    Totaal_Absoluut: 18,
-    Totaal_inc100000: "19,5",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "3,2",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "2,2"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "1,1"
   },
   {
     Gemeente: "Sliedrecht",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "23,8",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: 4,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2406,8 +2406,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Smallingerland",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "5,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2415,12 +2415,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Soest",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "8,6",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Someren",
@@ -2433,33 +2433,6 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Son en Breugel",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "5,8",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Stadskanaal",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,3",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Staphorst",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "17,5",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Stede Broec",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -2468,18 +2441,45 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Steenbergen",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "20,5",
+    Gemeente: "Stadskanaal",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "8,2"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Staphorst",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Stede Broec",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,6",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Steenbergen",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Steenwijkerland",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "4,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2496,8 +2496,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Stichtse Vecht",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "13,9",
+    Totaal_Absoluut: 8,
+    Totaal_inc100000: "12,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2505,8 +2505,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "SÃºdwest-FryslÃ¢n",
-    Totaal_Absoluut: 25,
-    Totaal_inc100000: "27,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2514,10 +2514,10 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Terneuzen",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: 11,
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,8",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
@@ -2532,12 +2532,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Texel",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "7,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "7,4"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Teylingen",
@@ -2550,17 +2550,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Tholen",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "34,9",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "7,8",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,9"
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Tiel",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "11,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2568,17 +2568,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Tilburg",
-    Totaal_Absoluut: 39,
-    Totaal_inc100000: "17,7",
+    Totaal_Absoluut: 16,
+    Totaal_inc100000: "7,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 7,
-    Overleden_inc100000: "3,2"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Tubbergen",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "9,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2586,8 +2586,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Twenterand",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: 3,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2613,15 +2613,6 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Uden",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "11,9",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
-  },
-  {
-    Gemeente: "Uitgeest",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -2630,9 +2621,18 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
+    Gemeente: "Uitgeest",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "7,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
     Gemeente: "Uithoorn",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "6,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2640,26 +2640,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Urk",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "42,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,8",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Utrecht (gemeente)",
-    Totaal_Absoluut: 86,
-    Totaal_inc100000: 24,
-    Zkh_Absoluut: 5,
-    Zkh_inc100000: "1,4",
-    Overleden_Absoluut: 12,
-    Overleden_inc100000: "3,4"
+    Totaal_Absoluut: 74,
+    Totaal_inc100000: "20,7",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "0,3",
+    Overleden_Absoluut: 2,
+    Overleden_inc100000: "0,6"
   },
   {
     Gemeente: "Utrechtse Heuvelrug",
-    Totaal_Absoluut: 9,
-    Totaal_inc100000: "18,2",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "6,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2667,8 +2667,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Vaals",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "9,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2676,21 +2676,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Valkenburg aan de Geul",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "42,8",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "6,1",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Valkenswaard",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "12,8",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "6,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,2"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Veendam",
@@ -2703,12 +2703,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Veenendaal",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "4,5",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,5",
-    Overleden_Absoluut: 0,
-    Overleden_inc100000: 0
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: 3,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: "1,5"
   },
   {
     Gemeente: "Veere",
@@ -2721,8 +2721,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Veldhoven",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: 11,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2730,21 +2730,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Velsen",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "4,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "2,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Venlo",
-    Totaal_Absoluut: 6,
-    Totaal_inc100000: "5,9",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: 1,
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: 2
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Venray",
@@ -2757,21 +2757,21 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Vijfheerenlanden",
-    Totaal_Absoluut: 15,
-    Totaal_inc100000: "26,4",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "1,8",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,8"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Vlaardingen",
-    Totaal_Absoluut: 27,
-    Totaal_inc100000: "36,8",
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "2,7",
-    Overleden_Absoluut: 2,
-    Overleden_inc100000: "2,7"
+    Totaal_Absoluut: 12,
+    Totaal_inc100000: "16,3",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Vlieland",
@@ -2793,8 +2793,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Voerendaal",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: 16,
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2802,17 +2802,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Voorschoten",
-    Totaal_Absoluut: 12,
-    Totaal_inc100000: "46,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "15,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Voorst",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 23,
+    Totaal_inc100000: "93,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2829,12 +2829,12 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Waadhoeke",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "21,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "6,5"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Waalre",
@@ -2847,42 +2847,24 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Waalwijk",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "10,3",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Overleden_Absoluut: 2,
+    Overleden_inc100000: "4,1"
   },
   {
     Gemeente: "Waddinxveen",
-    Totaal_Absoluut: 13,
-    Totaal_inc100000: "44,4",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,4"
-  },
-  {
-    Gemeente: "Wageningen",
     Totaal_Absoluut: 2,
-    Totaal_inc100000: 5,
+    Totaal_inc100000: "6,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Wassenaar",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: "11,4",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "3,8"
-  },
-  {
-    Gemeente: "Waterland",
+    Gemeente: "Wageningen",
     Totaal_Absoluut: 0,
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
@@ -2891,36 +2873,54 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Overleden_inc100000: 0
   },
   {
-    Gemeente: "Weert",
-    Totaal_Absoluut: 3,
-    Totaal_inc100000: 6,
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: 2
-  },
-  {
-    Gemeente: "Weesp",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "25,3",
-    Zkh_Absoluut: 0,
-    Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "15,2"
-  },
-  {
-    Gemeente: "West Betuwe",
-    Totaal_Absoluut: 11,
-    Totaal_inc100000: "21,5",
+    Gemeente: "Wassenaar",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "7,6",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
+    Gemeente: "Waterland",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,7",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Weert",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: 4,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "Weesp",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
+  },
+  {
+    Gemeente: "West Betuwe",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "3,9",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 1,
+    Overleden_inc100000: 2
+  },
+  {
     Gemeente: "West Maas en Waal",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "20,7",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2937,8 +2937,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Westerveld",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "5,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2946,8 +2946,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Westervoort",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "13,4",
+    Totaal_Absoluut: 4,
+    Totaal_inc100000: "26,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2964,17 +2964,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Westland",
-    Totaal_Absoluut: 14,
-    Totaal_inc100000: "12,7",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "0,9",
-    Overleden_Absoluut: 4,
-    Overleden_inc100000: "3,6"
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "5,4",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Weststellingwerf",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "3,9",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -2991,8 +2991,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Wierden",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "16,4",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3000,17 +3000,17 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Wijchen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: 17,
-    Zkh_Absoluut: 2,
-    Zkh_inc100000: "4,9",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,4"
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "12,2",
+    Zkh_Absoluut: 1,
+    Zkh_inc100000: "2,4",
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Wijdemeren",
-    Totaal_Absoluut: 5,
-    Totaal_inc100000: "20,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3018,8 +3018,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Wijk bij Duurstede",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "4,2",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3036,26 +3036,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Woensdrecht",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "18,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "4,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Woerden",
-    Totaal_Absoluut: 14,
-    Totaal_inc100000: "26,8",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "1,9",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "1,9"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Wormerland",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "12,3",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3063,8 +3063,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Woudenberg",
-    Totaal_Absoluut: 1,
-    Totaal_inc100000: "7,5",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3072,26 +3072,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Zaanstad",
-    Totaal_Absoluut: 41,
-    Totaal_inc100000: "26,1",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "1,9",
-    Overleden_Absoluut: 7,
-    Overleden_inc100000: "4,5"
+    Totaal_Absoluut: 6,
+    Totaal_inc100000: "3,8",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zaltbommel",
-    Totaal_Absoluut: 10,
-    Totaal_inc100000: "34,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "3,5",
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "3,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
     Overleden_inc100000: 0
   },
   {
     Gemeente: "Zandvoort",
-    Totaal_Absoluut: 0,
-    Totaal_inc100000: 0,
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "11,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,
@@ -3099,8 +3099,8 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Zeewolde",
-    Totaal_Absoluut: 4,
-    Totaal_inc100000: "17,7",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "8,8",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
@@ -3108,39 +3108,39 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
   },
   {
     Gemeente: "Zeist",
-    Totaal_Absoluut: 16,
-    Totaal_inc100000: "24,7",
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "7,7",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 3,
-    Overleden_inc100000: "4,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zevenaar",
-    Totaal_Absoluut: 14,
-    Totaal_inc100000: 32,
+    Totaal_Absoluut: 5,
+    Totaal_inc100000: "11,4",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,3"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zoetermeer",
-    Totaal_Absoluut: 12,
-    Totaal_inc100000: "9,6",
-    Zkh_Absoluut: 3,
-    Zkh_inc100000: "2,4",
+    Totaal_Absoluut: 19,
+    Totaal_inc100000: "15,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
     Overleden_inc100000: "0,8"
   },
   {
     Gemeente: "Zoeterwoude",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "23,2",
+    Totaal_Absoluut: 0,
+    Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "11,6"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zuidplas",
@@ -3148,26 +3148,26 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: "9,1",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,3"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zundert",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "32,1",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "4,6",
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "9,2",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
     Overleden_Absoluut: 1,
     Overleden_inc100000: "4,6"
   },
   {
     Gemeente: "Zutphen",
-    Totaal_Absoluut: 7,
-    Totaal_inc100000: "14,6",
-    Zkh_Absoluut: 4,
-    Zkh_inc100000: "8,3",
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "2,1"
+    Totaal_Absoluut: 1,
+    Totaal_inc100000: "2,1",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zwartewaterland",
@@ -3175,22 +3175,22 @@ export const nld_gemeente_6_0605_1905_2020: IRivmJsonData[] = [
     Totaal_inc100000: 0,
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
-    Overleden_Absoluut: 1,
-    Overleden_inc100000: "4,4"
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zwijndrecht",
-    Totaal_Absoluut: 24,
-    Totaal_inc100000: "53,6",
-    Zkh_Absoluut: 1,
-    Zkh_inc100000: "2,2",
-    Overleden_Absoluut: 5,
-    Overleden_inc100000: "11,2"
+    Totaal_Absoluut: 2,
+    Totaal_inc100000: "4,5",
+    Zkh_Absoluut: 0,
+    Zkh_inc100000: 0,
+    Overleden_Absoluut: 0,
+    Overleden_inc100000: 0
   },
   {
     Gemeente: "Zwolle",
-    Totaal_Absoluut: 2,
-    Totaal_inc100000: "1,6",
+    Totaal_Absoluut: 3,
+    Totaal_inc100000: "2,3",
     Zkh_Absoluut: 0,
     Zkh_inc100000: 0,
     Overleden_Absoluut: 0,

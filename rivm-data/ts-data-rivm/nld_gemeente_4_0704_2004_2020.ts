@@ -1,6 +1,6 @@
 import { IRivmJsonData } from '../../interfaces/i-rivm-jsondata';
 
-export const nld_gemeente_4_0804_2104_2020: IRivmJsonData[] = [
+export const nld_gemeente_4_0704_2004_2020: IRivmJsonData[] = [
   {
     Gemeente: "'s-Gravenhage (gemeente)",
     Totaal_Absoluut: 460,
