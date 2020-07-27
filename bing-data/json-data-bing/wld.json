@@ -1,6 +1,6 @@
 [
   {
-    "WLD": "21-1-2020",
+    "Updated": "21-1-2020",
     "Confirmed": 262,
     "ConfirmedChange": "",
     "Deaths": 0,
@@ -16,7 +16,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-1-2020",
+    "Updated": "22-1-2020",
     "Confirmed": 313,
     "ConfirmedChange": 51,
     "Deaths": 0,
@@ -32,7 +32,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-1-2020",
+    "Updated": "23-1-2020",
     "Confirmed": 578,
     "ConfirmedChange": 265,
     "Deaths": 0,
@@ -48,7 +48,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-1-2020",
+    "Updated": "24-1-2020",
     "Confirmed": 841,
     "ConfirmedChange": 263,
     "Deaths": 0,
@@ -64,7 +64,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-1-2020",
+    "Updated": "25-1-2020",
     "Confirmed": 1320,
     "ConfirmedChange": 479,
     "Deaths": 0,
@@ -80,7 +80,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-1-2020",
+    "Updated": "26-1-2020",
     "Confirmed": 2014,
     "ConfirmedChange": 694,
     "Deaths": 0,
@@ -96,7 +96,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-1-2020",
+    "Updated": "27-1-2020",
     "Confirmed": 2798,
     "ConfirmedChange": 784,
     "Deaths": 0,
@@ -112,7 +112,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-1-2020",
+    "Updated": "28-1-2020",
     "Confirmed": 4593,
     "ConfirmedChange": 1795,
     "Deaths": 0,
@@ -128,7 +128,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-1-2020",
+    "Updated": "29-1-2020",
     "Confirmed": 6065,
     "ConfirmedChange": 1472,
     "Deaths": 0,
@@ -144,7 +144,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "30-1-2020",
+    "Updated": "30-1-2020",
     "Confirmed": 7818,
     "ConfirmedChange": 1753,
     "Deaths": 0,
@@ -160,7 +160,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "31-1-2020",
+    "Updated": "31-1-2020",
     "Confirmed": 9826,
     "ConfirmedChange": 2008,
     "Deaths": 0,
@@ -176,7 +176,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-2-2020",
+    "Updated": "1-2-2020",
     "Confirmed": 11953,
     "ConfirmedChange": 2127,
     "Deaths": 0,
@@ -192,7 +192,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-2-2020",
+    "Updated": "2-2-2020",
     "Confirmed": 14557,
     "ConfirmedChange": 2604,
     "Deaths": 0,
@@ -208,7 +208,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-2-2020",
+    "Updated": "3-2-2020",
     "Confirmed": 17386,
     "ConfirmedChange": 2829,
     "Deaths": 362,
@@ -224,7 +224,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-2-2020",
+    "Updated": "4-2-2020",
     "Confirmed": 20625,
     "ConfirmedChange": 3239,
     "Deaths": 426,
@@ -240,7 +240,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-2-2020",
+    "Updated": "5-2-2020",
     "Confirmed": 24549,
     "ConfirmedChange": 3924,
     "Deaths": 492,
@@ -256,7 +256,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-2-2020",
+    "Updated": "6-2-2020",
     "Confirmed": 28256,
     "ConfirmedChange": 3707,
     "Deaths": 565,
@@ -272,7 +272,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-2-2020",
+    "Updated": "7-2-2020",
     "Confirmed": 31420,
     "ConfirmedChange": 3164,
     "Deaths": 638,
@@ -288,7 +288,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-2-2020",
+    "Updated": "8-2-2020",
     "Confirmed": 34822,
     "ConfirmedChange": 3402,
     "Deaths": 724,
@@ -304,7 +304,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-2-2020",
+    "Updated": "9-2-2020",
     "Confirmed": 37494,
     "ConfirmedChange": 2672,
     "Deaths": 813,
@@ -320,7 +320,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-2-2020",
+    "Updated": "10-2-2020",
     "Confirmed": 40484,
     "ConfirmedChange": 2990,
     "Deaths": 910,
@@ -336,7 +336,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-2-2020",
+    "Updated": "11-2-2020",
     "Confirmed": 42968,
     "ConfirmedChange": 2484,
     "Deaths": 1018,
@@ -352,7 +352,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-2-2020",
+    "Updated": "12-2-2020",
     "Confirmed": 44996,
     "ConfirmedChange": 2028,
     "Deaths": 1115,
@@ -368,7 +368,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-2-2020",
+    "Updated": "13-2-2020",
     "Confirmed": 46823,
     "ConfirmedChange": 1827,
     "Deaths": 1369,
@@ -384,7 +384,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-2-2020",
+    "Updated": "14-2-2020",
     "Confirmed": 64219,
     "ConfirmedChange": 17396,
     "Deaths": 1383,
@@ -400,7 +400,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-2-2020",
+    "Updated": "15-2-2020",
     "Confirmed": 66884,
     "ConfirmedChange": 2665,
     "Deaths": 1526,
@@ -416,7 +416,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-2-2020",
+    "Updated": "16-2-2020",
     "Confirmed": 68912,
     "ConfirmedChange": 2028,
     "Deaths": 1669,
@@ -432,7 +432,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-2-2020",
+    "Updated": "17-2-2020",
     "Confirmed": 70975,
     "ConfirmedChange": 2063,
     "Deaths": 1775,
@@ -448,7 +448,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-2-2020",
+    "Updated": "18-2-2020",
     "Confirmed": 72778,
     "ConfirmedChange": 1803,
     "Deaths": 1873,
@@ -464,7 +464,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-2-2020",
+    "Updated": "19-2-2020",
     "Confirmed": 75204,
     "ConfirmedChange": 2426,
     "Deaths": 2009,
@@ -480,7 +480,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-2-2020",
+    "Updated": "20-2-2020",
     "Confirmed": 75748,
     "ConfirmedChange": 544,
     "Deaths": 2129,
@@ -496,7 +496,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-2-2020",
+    "Updated": "21-2-2020",
     "Confirmed": 76769,
     "ConfirmedChange": 1021,
     "Deaths": 2247,
@@ -512,7 +512,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-2-2020",
+    "Updated": "22-2-2020",
     "Confirmed": 77794,
     "ConfirmedChange": 1025,
     "Deaths": 2359,
@@ -528,7 +528,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-2-2020",
+    "Updated": "23-2-2020",
     "Confirmed": 78811,
     "ConfirmedChange": 1017,
     "Deaths": 2462,
@@ -544,7 +544,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-2-2020",
+    "Updated": "24-2-2020",
     "Confirmed": 79331,
     "ConfirmedChange": 520,
     "Deaths": 2618,
@@ -560,7 +560,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-2-2020",
+    "Updated": "25-2-2020",
     "Confirmed": 80239,
     "ConfirmedChange": 908,
     "Deaths": 2700,
@@ -576,7 +576,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-2-2020",
+    "Updated": "26-2-2020",
     "Confirmed": 81109,
     "ConfirmedChange": 870,
     "Deaths": 2762,
@@ -592,7 +592,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-2-2020",
+    "Updated": "27-2-2020",
     "Confirmed": 82294,
     "ConfirmedChange": 1185,
     "Deaths": 2804,
@@ -608,7 +608,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-2-2020",
+    "Updated": "28-2-2020",
     "Confirmed": 83652,
     "ConfirmedChange": 1358,
     "Deaths": 2858,
@@ -624,7 +624,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-2-2020",
+    "Updated": "29-2-2020",
     "Confirmed": 85403,
     "ConfirmedChange": 1751,
     "Deaths": 2924,
@@ -640,7 +640,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-3-2020",
+    "Updated": "1-3-2020",
     "Confirmed": 87137,
     "ConfirmedChange": 1734,
     "Deaths": 2977,
@@ -656,7 +656,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-3-2020",
+    "Updated": "2-3-2020",
     "Confirmed": 88948,
     "ConfirmedChange": 1811,
     "Deaths": 3043,
@@ -672,7 +672,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-3-2020",
+    "Updated": "3-3-2020",
     "Confirmed": 90869,
     "ConfirmedChange": 1921,
     "Deaths": 3112,
@@ -688,7 +688,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-3-2020",
+    "Updated": "4-3-2020",
     "Confirmed": 93091,
     "ConfirmedChange": 2222,
     "Deaths": 3198,
@@ -704,7 +704,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-3-2020",
+    "Updated": "5-3-2020",
     "Confirmed": 95324,
     "ConfirmedChange": 2233,
     "Deaths": 3281,
@@ -720,7 +720,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-3-2020",
+    "Updated": "6-3-2020",
     "Confirmed": 98192,
     "ConfirmedChange": 2868,
     "Deaths": 3380,
@@ -736,7 +736,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-3-2020",
+    "Updated": "7-3-2020",
     "Confirmed": 101927,
     "ConfirmedChange": 3735,
     "Deaths": 3486,
@@ -752,7 +752,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-3-2020",
+    "Updated": "8-3-2020",
     "Confirmed": 105586,
     "ConfirmedChange": 3659,
     "Deaths": 3584,
@@ -768,7 +768,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-3-2020",
+    "Updated": "9-3-2020",
     "Confirmed": 109577,
     "ConfirmedChange": 3991,
     "Deaths": 3809,
@@ -784,7 +784,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-3-2020",
+    "Updated": "10-3-2020",
     "Confirmed": 113702,
     "ConfirmedChange": 4125,
     "Deaths": 4012,
@@ -800,7 +800,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-3-2020",
+    "Updated": "11-3-2020",
     "Confirmed": 118319,
     "ConfirmedChange": 4617,
     "Deaths": 4292,
@@ -816,7 +816,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-3-2020",
+    "Updated": "12-3-2020",
     "Confirmed": 125260,
     "ConfirmedChange": 6941,
     "Deaths": 4613,
@@ -832,7 +832,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-3-2020",
+    "Updated": "13-3-2020",
     "Confirmed": 132755,
     "ConfirmedChange": 7495,
     "Deaths": 4955,
@@ -848,7 +848,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-3-2020",
+    "Updated": "14-3-2020",
     "Confirmed": 142534,
     "ConfirmedChange": 9779,
     "Deaths": 5392,
@@ -864,7 +864,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-3-2020",
+    "Updated": "15-3-2020",
     "Confirmed": 153517,
     "ConfirmedChange": 10983,
     "Deaths": 5735,
@@ -880,7 +880,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-3-2020",
+    "Updated": "16-3-2020",
     "Confirmed": 167515,
     "ConfirmedChange": 13998,
     "Deaths": 6606,
@@ -896,7 +896,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-3-2020",
+    "Updated": "17-3-2020",
     "Confirmed": 179111,
     "ConfirmedChange": 11596,
     "Deaths": 7426,
@@ -912,7 +912,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-3-2020",
+    "Updated": "18-3-2020",
     "Confirmed": 191127,
     "ConfirmedChange": 12016,
     "Deaths": 7807,
@@ -928,7 +928,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-3-2020",
+    "Updated": "19-3-2020",
     "Confirmed": 244799,
     "ConfirmedChange": 53672,
     "Deaths": 10030,
@@ -944,7 +944,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-3-2020",
+    "Updated": "20-3-2020",
     "Confirmed": 275130,
     "ConfirmedChange": 30331,
     "Deaths": 11376,
@@ -960,7 +960,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-3-2020",
+    "Updated": "21-3-2020",
     "Confirmed": 304999,
     "ConfirmedChange": 29869,
     "Deaths": 13003,
@@ -976,7 +976,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-3-2020",
+    "Updated": "22-3-2020",
     "Confirmed": 335403,
     "ConfirmedChange": 30404,
     "Deaths": 14611,
@@ -992,7 +992,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-3-2020",
+    "Updated": "23-3-2020",
     "Confirmed": 378394,
     "ConfirmedChange": 42991,
     "Deaths": 16491,
@@ -1008,7 +1008,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-3-2020",
+    "Updated": "24-3-2020",
     "Confirmed": 417663,
     "ConfirmedChange": 39269,
     "Deaths": 18605,
@@ -1024,7 +1024,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-3-2020",
+    "Updated": "25-3-2020",
     "Confirmed": 463387,
     "ConfirmedChange": 45724,
     "Deaths": 20912,
@@ -1040,7 +1040,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-3-2020",
+    "Updated": "26-3-2020",
     "Confirmed": 529614,
     "ConfirmedChange": 66227,
     "Deaths": 23714,
@@ -1056,7 +1056,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-3-2020",
+    "Updated": "27-3-2020",
     "Confirmed": 587958,
     "ConfirmedChange": 58344,
     "Deaths": 26909,
@@ -1072,7 +1072,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-3-2020",
+    "Updated": "28-3-2020",
     "Confirmed": 662541,
     "ConfirmedChange": 74583,
     "Deaths": 30839,
@@ -1088,7 +1088,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-3-2020",
+    "Updated": "29-3-2020",
     "Confirmed": 720415,
     "ConfirmedChange": 57874,
     "Deaths": 33908,
@@ -1104,7 +1104,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "30-3-2020",
+    "Updated": "30-3-2020",
     "Confirmed": 777286,
     "ConfirmedChange": 56871,
     "Deaths": 37140,
@@ -1120,7 +1120,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "31-3-2020",
+    "Updated": "31-3-2020",
     "Confirmed": 856955,
     "ConfirmedChange": 79669,
     "Deaths": 42089,
@@ -1136,7 +1136,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-4-2020",
+    "Updated": "1-4-2020",
     "Confirmed": 932605,
     "ConfirmedChange": 75650,
     "Deaths": 46809,
@@ -1152,7 +1152,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-4-2020",
+    "Updated": "2-4-2020",
     "Confirmed": 1011490,
     "ConfirmedChange": 78885,
     "Deaths": 52863,
@@ -1168,7 +1168,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-4-2020",
+    "Updated": "3-4-2020",
     "Confirmed": 1095917,
     "ConfirmedChange": 84427,
     "Deaths": 58787,
@@ -1184,7 +1184,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-4-2020",
+    "Updated": "4-4-2020",
     "Confirmed": 1196553,
     "ConfirmedChange": 100636,
     "Deaths": 64549,
@@ -1200,7 +1200,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-4-2020",
+    "Updated": "5-4-2020",
     "Confirmed": 1272115,
     "ConfirmedChange": 75562,
     "Deaths": 69309,
@@ -1216,7 +1216,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-4-2020",
+    "Updated": "6-4-2020",
     "Confirmed": 1341907,
     "ConfirmedChange": 69792,
     "Deaths": 74565,
@@ -1232,7 +1232,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-4-2020",
+    "Updated": "7-4-2020",
     "Confirmed": 1426096,
     "ConfirmedChange": 84189,
     "Deaths": 81259,
@@ -1248,7 +1248,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-4-2020",
+    "Updated": "8-4-2020",
     "Confirmed": 1504971,
     "ConfirmedChange": 78875,
     "Deaths": 87984,
@@ -1264,7 +1264,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-4-2020",
+    "Updated": "9-4-2020",
     "Confirmed": 1587209,
     "ConfirmedChange": 82238,
     "Deaths": 94850,
@@ -1280,7 +1280,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-4-2020",
+    "Updated": "10-4-2020",
     "Confirmed": 1684833,
     "ConfirmedChange": 97624,
     "Deaths": 102136,
@@ -1296,7 +1296,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-4-2020",
+    "Updated": "11-4-2020",
     "Confirmed": 1764622,
     "ConfirmedChange": 79789,
     "Deaths": 107904,
@@ -1312,7 +1312,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-4-2020",
+    "Updated": "12-4-2020",
     "Confirmed": 1838772,
     "ConfirmedChange": 74150,
     "Deaths": 107904,
@@ -1328,7 +1328,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-4-2020",
+    "Updated": "13-4-2020",
     "Confirmed": 1912923,
     "ConfirmedChange": 74151,
     "Deaths": 118966,
@@ -1344,7 +1344,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-4-2020",
+    "Updated": "14-4-2020",
     "Confirmed": 1970879,
     "ConfirmedChange": 57956,
     "Deaths": 125678,
@@ -1360,7 +1360,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-4-2020",
+    "Updated": "15-4-2020",
     "Confirmed": 2056055,
     "ConfirmedChange": 85176,
     "Deaths": 133572,
@@ -1376,7 +1376,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-4-2020",
+    "Updated": "16-4-2020",
     "Confirmed": 2151199,
     "ConfirmedChange": 95144,
     "Deaths": 143725,
@@ -1392,7 +1392,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-4-2020",
+    "Updated": "17-4-2020",
     "Confirmed": 2234109,
     "ConfirmedChange": 82910,
     "Deaths": 153379,
@@ -1408,7 +1408,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-4-2020",
+    "Updated": "18-4-2020",
     "Confirmed": 2310572,
     "ConfirmedChange": 76463,
     "Deaths": 158691,
@@ -1424,7 +1424,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-4-2020",
+    "Updated": "19-4-2020",
     "Confirmed": 2394291,
     "ConfirmedChange": 83719,
     "Deaths": 164938,
@@ -1440,7 +1440,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-4-2020",
+    "Updated": "20-4-2020",
     "Confirmed": 2470410,
     "ConfirmedChange": 76119,
     "Deaths": 169794,
@@ -1456,7 +1456,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-4-2020",
+    "Updated": "21-4-2020",
     "Confirmed": 2560504,
     "ConfirmedChange": 90094,
     "Deaths": 176926,
@@ -1472,7 +1472,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-4-2020",
+    "Updated": "22-4-2020",
     "Confirmed": 2628894,
     "ConfirmedChange": 68390,
     "Deaths": 182992,
@@ -1488,7 +1488,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-4-2020",
+    "Updated": "23-4-2020",
     "Confirmed": 2699338,
     "ConfirmedChange": 70444,
     "Deaths": 188437,
@@ -1504,7 +1504,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-4-2020",
+    "Updated": "24-4-2020",
     "Confirmed": 2790986,
     "ConfirmedChange": 91648,
     "Deaths": 195920,
@@ -1520,7 +1520,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-4-2020",
+    "Updated": "25-4-2020",
     "Confirmed": 2868539,
     "ConfirmedChange": 77553,
     "Deaths": 201502,
@@ -1536,7 +1536,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-4-2020",
+    "Updated": "26-4-2020",
     "Confirmed": 2965363,
     "ConfirmedChange": 96824,
     "Deaths": 206265,
@@ -1552,7 +1552,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-4-2020",
+    "Updated": "27-4-2020",
     "Confirmed": 3002303,
     "ConfirmedChange": 36940,
     "Deaths": 208131,
@@ -1568,7 +1568,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-4-2020",
+    "Updated": "28-4-2020",
     "Confirmed": 3083467,
     "ConfirmedChange": 81164,
     "Deaths": 213824,
@@ -1584,7 +1584,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-4-2020",
+    "Updated": "29-4-2020",
     "Confirmed": 3170335,
     "ConfirmedChange": 86868,
     "Deaths": 224708,
@@ -1600,7 +1600,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "30-4-2020",
+    "Updated": "30-4-2020",
     "Confirmed": 3249022,
     "ConfirmedChange": 78687,
     "Deaths": 230804,
@@ -1616,7 +1616,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-5-2020",
+    "Updated": "1-5-2020",
     "Confirmed": 3303296,
     "ConfirmedChange": 54274,
     "Deaths": 235290,
@@ -1632,7 +1632,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-5-2020",
+    "Updated": "2-5-2020",
     "Confirmed": 3419184,
     "ConfirmedChange": 115888,
     "Deaths": 243355,
@@ -1648,7 +1648,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-5-2020",
+    "Updated": "3-5-2020",
     "Confirmed": 3502126,
     "ConfirmedChange": 82942,
     "Deaths": 247107,
@@ -1664,7 +1664,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-5-2020",
+    "Updated": "4-5-2020",
     "Confirmed": 3578301,
     "ConfirmedChange": 76175,
     "Deaths": 251059,
@@ -1680,7 +1680,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-5-2020",
+    "Updated": "5-5-2020",
     "Confirmed": 3659271,
     "ConfirmedChange": 80970,
     "Deaths": 256736,
@@ -1696,7 +1696,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-5-2020",
+    "Updated": "6-5-2020",
     "Confirmed": 3744585,
     "ConfirmedChange": 85314,
     "Deaths": 263068,
@@ -1712,7 +1712,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-5-2020",
+    "Updated": "7-5-2020",
     "Confirmed": 3836215,
     "ConfirmedChange": 91630,
     "Deaths": 268999,
@@ -1728,7 +1728,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-5-2020",
+    "Updated": "8-5-2020",
     "Confirmed": 3932896,
     "ConfirmedChange": 96681,
     "Deaths": 274422,
@@ -1744,7 +1744,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-5-2020",
+    "Updated": "9-5-2020",
     "Confirmed": 4018342,
     "ConfirmedChange": 85446,
     "Deaths": 278756,
@@ -1760,7 +1760,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-5-2020",
+    "Updated": "10-5-2020",
     "Confirmed": 4097158,
     "ConfirmedChange": 78816,
     "Deaths": 282495,
@@ -1776,7 +1776,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-5-2020",
+    "Updated": "11-5-2020",
     "Confirmed": 4168427,
     "ConfirmedChange": 71269,
     "Deaths": 285445,
@@ -1792,7 +1792,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-5-2020",
+    "Updated": "12-5-2020",
     "Confirmed": 4233504,
     "ConfirmedChange": 65077,
     "Deaths": 289932,
@@ -1808,7 +1808,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-5-2020",
+    "Updated": "13-5-2020",
     "Confirmed": 4336973,
     "ConfirmedChange": 103469,
     "Deaths": 296252,
@@ -1824,7 +1824,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-5-2020",
+    "Updated": "14-5-2020",
     "Confirmed": 4434590,
     "ConfirmedChange": 97617,
     "Deaths": 301937,
@@ -1840,7 +1840,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-5-2020",
+    "Updated": "15-5-2020",
     "Confirmed": 4531811,
     "ConfirmedChange": 97221,
     "Deaths": 307001,
@@ -1856,7 +1856,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-5-2020",
+    "Updated": "16-5-2020",
     "Confirmed": 4626632,
     "ConfirmedChange": 94821,
     "Deaths": 311363,
@@ -1872,7 +1872,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-5-2020",
+    "Updated": "17-5-2020",
     "Confirmed": 4710614,
     "ConfirmedChange": 83982,
     "Deaths": 315023,
@@ -1888,7 +1888,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-5-2020",
+    "Updated": "18-5-2020",
     "Confirmed": 4786672,
     "ConfirmedChange": 76058,
     "Deaths": 317695,
@@ -1904,7 +1904,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-5-2020",
+    "Updated": "19-5-2020",
     "Confirmed": 4889287,
     "ConfirmedChange": 102615,
     "Deaths": 322683,
@@ -1920,7 +1920,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-5-2020",
+    "Updated": "20-5-2020",
     "Confirmed": 4968689,
     "ConfirmedChange": 79402,
     "Deaths": 326515,
@@ -1936,7 +1936,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-5-2020",
+    "Updated": "21-5-2020",
     "Confirmed": 5076846,
     "ConfirmedChange": 108157,
     "Deaths": 332425,
@@ -1952,7 +1952,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-5-2020",
+    "Updated": "22-5-2020",
     "Confirmed": 5180982,
     "ConfirmedChange": 104136,
     "Deaths": 336432,
@@ -1968,7 +1968,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-5-2020",
+    "Updated": "23-5-2020",
     "Confirmed": 5280743,
     "ConfirmedChange": 99761,
     "Deaths": 340477,
@@ -1984,7 +1984,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-5-2020",
+    "Updated": "24-5-2020",
     "Confirmed": 5383582,
     "ConfirmedChange": 102839,
     "Deaths": 344077,
@@ -2000,7 +2000,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-5-2020",
+    "Updated": "25-5-2020",
     "Confirmed": 5471768,
     "ConfirmedChange": 88186,
     "Deaths": 344911,
@@ -2016,7 +2016,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-5-2020",
+    "Updated": "26-5-2020",
     "Confirmed": 5559130,
     "ConfirmedChange": 87362,
     "Deaths": 348610,
@@ -2032,7 +2032,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-5-2020",
+    "Updated": "27-5-2020",
     "Confirmed": 5682389,
     "ConfirmedChange": 123259,
     "Deaths": 354944,
@@ -2048,7 +2048,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-5-2020",
+    "Updated": "28-5-2020",
     "Confirmed": 5803416,
     "ConfirmedChange": 121027,
     "Deaths": 359791,
@@ -2064,7 +2064,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-5-2020",
+    "Updated": "29-5-2020",
     "Confirmed": 5916464,
     "ConfirmedChange": 113048,
     "Deaths": 364357,
@@ -2080,7 +2080,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "30-5-2020",
+    "Updated": "30-5-2020",
     "Confirmed": 6048384,
     "ConfirmedChange": 131920,
     "Deaths": 368604,
@@ -2096,7 +2096,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "31-5-2020",
+    "Updated": "31-5-2020",
     "Confirmed": 6132154,
     "ConfirmedChange": 83770,
     "Deaths": 371154,
@@ -2112,7 +2112,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-6-2020",
+    "Updated": "1-6-2020",
     "Confirmed": 6246042,
     "ConfirmedChange": 113888,
     "Deaths": 374452,
@@ -2128,7 +2128,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-6-2020",
+    "Updated": "2-6-2020",
     "Confirmed": 6325303,
     "ConfirmedChange": 79261,
     "Deaths": 377460,
@@ -2144,7 +2144,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-6-2020",
+    "Updated": "3-6-2020",
     "Confirmed": 6444298,
     "ConfirmedChange": 118995,
     "Deaths": 382435,
@@ -2160,7 +2160,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-6-2020",
+    "Updated": "4-6-2020",
     "Confirmed": 6573286,
     "ConfirmedChange": 128988,
     "Deaths": 387898,
@@ -2176,7 +2176,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-6-2020",
+    "Updated": "5-6-2020",
     "Confirmed": 6722408,
     "ConfirmedChange": 149122,
     "Deaths": 393934,
@@ -2192,7 +2192,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-6-2020",
+    "Updated": "6-6-2020",
     "Confirmed": 6852810,
     "ConfirmedChange": 130402,
     "Deaths": 398211,
@@ -2208,7 +2208,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-6-2020",
+    "Updated": "7-6-2020",
     "Confirmed": 6979789,
     "ConfirmedChange": 126979,
     "Deaths": 401848,
@@ -2224,7 +2224,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-6-2020",
+    "Updated": "8-6-2020",
     "Confirmed": 7085894,
     "ConfirmedChange": 106105,
     "Deaths": 405168,
@@ -2240,7 +2240,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-6-2020",
+    "Updated": "9-6-2020",
     "Confirmed": 7185573,
     "ConfirmedChange": 99679,
     "Deaths": 408954,
@@ -2256,7 +2256,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-6-2020",
+    "Updated": "10-6-2020",
     "Confirmed": 7313661,
     "ConfirmedChange": 128088,
     "Deaths": 413854,
@@ -2272,7 +2272,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-6-2020",
+    "Updated": "11-6-2020",
     "Confirmed": 7414050,
     "ConfirmedChange": 100389,
     "Deaths": 417514,
@@ -2288,7 +2288,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-6-2020",
+    "Updated": "12-6-2020",
     "Confirmed": 7617591,
     "ConfirmedChange": 203541,
     "Deaths": 424587,
@@ -2304,7 +2304,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-6-2020",
+    "Updated": "13-6-2020",
     "Confirmed": 7715890,
     "ConfirmedChange": 98299,
     "Deaths": 427670,
@@ -2320,7 +2320,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-6-2020",
+    "Updated": "14-6-2020",
     "Confirmed": 7835340,
     "ConfirmedChange": 119450,
     "Deaths": 431141,
@@ -2336,7 +2336,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-6-2020",
+    "Updated": "15-6-2020",
     "Confirmed": 7963453,
     "ConfirmedChange": 128113,
     "Deaths": 434432,
@@ -2352,7 +2352,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-6-2020",
+    "Updated": "16-6-2020",
     "Confirmed": 8085932,
     "ConfirmedChange": 122479,
     "Deaths": 438453,
@@ -2368,7 +2368,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-6-2020",
+    "Updated": "17-6-2020",
     "Confirmed": 8261260,
     "ConfirmedChange": 175328,
     "Deaths": 445468,
@@ -2384,7 +2384,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-6-2020",
+    "Updated": "18-6-2020",
     "Confirmed": 8400320,
     "ConfirmedChange": 139060,
     "Deaths": 450435,
@@ -2400,7 +2400,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-6-2020",
+    "Updated": "19-6-2020",
     "Confirmed": 8519543,
     "ConfirmedChange": 119223,
     "Deaths": 454582,
@@ -2416,7 +2416,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-6-2020",
+    "Updated": "20-6-2020",
     "Confirmed": 8716985,
     "ConfirmedChange": 197442,
     "Deaths": 461206,
@@ -2432,7 +2432,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-6-2020",
+    "Updated": "21-6-2020",
     "Confirmed": 8802328,
     "ConfirmedChange": 85343,
     "Deaths": 464620,
@@ -2448,7 +2448,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-6-2020",
+    "Updated": "22-6-2020",
     "Confirmed": 9030328,
     "ConfirmedChange": 228000,
     "Deaths": 469939,
@@ -2464,7 +2464,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-6-2020",
+    "Updated": "23-6-2020",
     "Confirmed": 9154232,
     "ConfirmedChange": 123904,
     "Deaths": 473650,
@@ -2480,7 +2480,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-6-2020",
+    "Updated": "24-6-2020",
     "Confirmed": 9237691,
     "ConfirmedChange": 83459,
     "Deaths": 476911,
@@ -2496,7 +2496,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "25-6-2020",
+    "Updated": "25-6-2020",
     "Confirmed": 9494571,
     "ConfirmedChange": 256880,
     "Deaths": 484155,
@@ -2512,7 +2512,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "26-6-2020",
+    "Updated": "26-6-2020",
     "Confirmed": 9641472,
     "ConfirmedChange": 146901,
     "Deaths": 489990,
@@ -2528,7 +2528,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "27-6-2020",
+    "Updated": "27-6-2020",
     "Confirmed": 9891727,
     "ConfirmedChange": 250255,
     "Deaths": 496075,
@@ -2544,7 +2544,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "28-6-2020",
+    "Updated": "28-6-2020",
     "Confirmed": 10044731,
     "ConfirmedChange": 153004,
     "Deaths": 499892,
@@ -2560,7 +2560,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "29-6-2020",
+    "Updated": "29-6-2020",
     "Confirmed": 10199798,
     "ConfirmedChange": 155067,
     "Deaths": 502947,
@@ -2576,7 +2576,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "30-6-2020",
+    "Updated": "30-6-2020",
     "Confirmed": 10368165,
     "ConfirmedChange": 168367,
     "Deaths": 507188,
@@ -2592,7 +2592,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "1-7-2020",
+    "Updated": "1-7-2020",
     "Confirmed": 10512383,
     "ConfirmedChange": 144218,
     "Deaths": 512331,
@@ -2608,7 +2608,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "2-7-2020",
+    "Updated": "2-7-2020",
     "Confirmed": 10694288,
     "ConfirmedChange": 181905,
     "Deaths": 516210,
@@ -2624,7 +2624,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "3-7-2020",
+    "Updated": "3-7-2020",
     "Confirmed": 10874146,
     "ConfirmedChange": 179858,
     "Deaths": 521355,
@@ -2640,7 +2640,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "4-7-2020",
+    "Updated": "4-7-2020",
     "Confirmed": 11169802,
     "ConfirmedChange": 295656,
     "Deaths": 528232,
@@ -2656,7 +2656,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "5-7-2020",
+    "Updated": "5-7-2020",
     "Confirmed": 11304534,
     "ConfirmedChange": 134732,
     "Deaths": 531659,
@@ -2672,7 +2672,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "6-7-2020",
+    "Updated": "6-7-2020",
     "Confirmed": 11483400,
     "ConfirmedChange": 178866,
     "Deaths": 535027,
@@ -2688,7 +2688,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "7-7-2020",
+    "Updated": "7-7-2020",
     "Confirmed": 11694766,
     "ConfirmedChange": 211366,
     "Deaths": 540157,
@@ -2704,7 +2704,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "8-7-2020",
+    "Updated": "8-7-2020",
     "Confirmed": 11910220,
     "ConfirmedChange": 215454,
     "Deaths": 546318,
@@ -2720,7 +2720,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "9-7-2020",
+    "Updated": "9-7-2020",
     "Confirmed": 12169400,
     "ConfirmedChange": 259180,
     "Deaths": 552104,
@@ -2736,7 +2736,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "10-7-2020",
+    "Updated": "10-7-2020",
     "Confirmed": 12373722,
     "ConfirmedChange": 204322,
     "Deaths": 556863,
@@ -2752,7 +2752,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "11-7-2020",
+    "Updated": "11-7-2020",
     "Confirmed": 12507849,
     "ConfirmedChange": 134127,
     "Deaths": 560460,
@@ -2768,7 +2768,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "12-7-2020",
+    "Updated": "12-7-2020",
     "Confirmed": 12726677,
     "ConfirmedChange": 218828,
     "Deaths": 560460,
@@ -2784,7 +2784,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "13-7-2020",
+    "Updated": "13-7-2020",
     "Confirmed": 12945505,
     "ConfirmedChange": 218828,
     "Deaths": 571444,
@@ -2800,7 +2800,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "14-7-2020",
+    "Updated": "14-7-2020",
     "Confirmed": 13203571,
     "ConfirmedChange": 258066,
     "Deaths": 575201,
@@ -2816,7 +2816,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "15-7-2020",
+    "Updated": "15-7-2020",
     "Confirmed": 13382020,
     "ConfirmedChange": 178449,
     "Deaths": 580038,
@@ -2832,7 +2832,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "16-7-2020",
+    "Updated": "16-7-2020",
     "Confirmed": 13654445,
     "ConfirmedChange": 272425,
     "Deaths": 586174,
@@ -2848,7 +2848,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "17-7-2020",
+    "Updated": "17-7-2020",
     "Confirmed": 13926476,
     "ConfirmedChange": 272031,
     "Deaths": 593209,
@@ -2864,7 +2864,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "18-7-2020",
+    "Updated": "18-7-2020",
     "Confirmed": 14126035,
     "ConfirmedChange": 199559,
     "Deaths": 598098,
@@ -2880,7 +2880,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "19-7-2020",
+    "Updated": "19-7-2020",
     "Confirmed": 14394056,
     "ConfirmedChange": 268021,
     "Deaths": 603697,
@@ -2896,7 +2896,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "20-7-2020",
+    "Updated": "20-7-2020",
     "Confirmed": 14608517,
     "ConfirmedChange": 214461,
     "Deaths": 608420,
@@ -2912,7 +2912,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "21-7-2020",
+    "Updated": "21-7-2020",
     "Confirmed": 14774887,
     "ConfirmedChange": 166370,
     "Deaths": 611599,
@@ -2928,7 +2928,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "22-7-2020",
+    "Updated": "22-7-2020",
     "Confirmed": 15008046,
     "ConfirmedChange": 233159,
     "Deaths": 617902,
@@ -2944,7 +2944,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "23-7-2020",
+    "Updated": "23-7-2020",
     "Confirmed": 15429889,
     "ConfirmedChange": 421843,
     "Deaths": 631680,
@@ -2960,7 +2960,7 @@
     "AdminRegion2": ""
   },
   {
-    "WLD": "24-7-2020",
+    "Updated": "24-7-2020",
     "Confirmed": 15628936,
     "ConfirmedChange": 199047,
     "Deaths": 636262,
