@@ -49911,3 +49911,737 @@ Date_of_report;Municipality_code;Municipality_name;Province;Total_reported;Hospi
 26-7-2020 10:00;;;Zeeland;4;2;1
 26-7-2020 10:00;;;Noord-Brabant;184;16;3
 26-7-2020 10:00;;;Limburg;24;6;3
+27-7-2020 10:00;GM0003;Appingedam;Groningen;5;3;0
+27-7-2020 10:00;GM0010;Delfzijl;Groningen;18;6;0
+27-7-2020 10:00;GM0014;Groningen;Groningen;183;18;3
+27-7-2020 10:00;GM0024;Loppersum;Groningen;2;0;0
+27-7-2020 10:00;GM0034;Almere;Flevoland;462;123;31
+27-7-2020 10:00;GM0037;Stadskanaal;Groningen;9;2;2
+27-7-2020 10:00;GM0047;Veendam;Groningen;8;2;0
+27-7-2020 10:00;GM0050;Zeewolde;Flevoland;50;12;6
+27-7-2020 10:00;GM0059;Achtkarspelen;Friesland;13;0;0
+27-7-2020 10:00;GM0060;Ameland;Friesland;0;0;0
+27-7-2020 10:00;GM0072;Harlingen;Friesland;17;4;1
+27-7-2020 10:00;GM0074;Heerenveen;Friesland;95;13;21
+27-7-2020 10:00;GM0080;Leeuwarden;Friesland;71;33;6
+27-7-2020 10:00;GM0085;Ooststellingwerf;Friesland;8;3;0
+27-7-2020 10:00;GM0086;Opsterland;Friesland;24;7;0
+27-7-2020 10:00;GM0088;Schiermonnikoog;Friesland;0;0;0
+27-7-2020 10:00;GM0090;Smallingerland;Friesland;58;9;5
+27-7-2020 10:00;GM0093;Terschelling;Friesland;2;0;0
+27-7-2020 10:00;GM0096;Vlieland;Friesland;0;0;0
+27-7-2020 10:00;GM0098;Weststellingwerf;Friesland;28;3;4
+27-7-2020 10:00;GM0106;Assen;Drenthe;51;12;2
+27-7-2020 10:00;GM0109;Coevorden;Drenthe;57;13;2
+27-7-2020 10:00;GM0114;Emmen;Drenthe;105;20;11
+27-7-2020 10:00;GM0118;Hoogeveen;Drenthe;93;19;8
+27-7-2020 10:00;GM0119;Meppel;Drenthe;51;11;5
+27-7-2020 10:00;GM0141;Almelo;Overijssel;93;23;9
+27-7-2020 10:00;GM0147;Borne;Overijssel;50;14;6
+27-7-2020 10:00;GM0148;Dalfsen;Overijssel;82;16;6
+27-7-2020 10:00;GM0150;Deventer;Overijssel;343;47;33
+27-7-2020 10:00;GM0153;Enschede;Overijssel;259;54;25
+27-7-2020 10:00;GM0158;Haaksbergen;Overijssel;56;14;7
+27-7-2020 10:00;GM0160;Hardenberg;Overijssel;171;23;8
+27-7-2020 10:00;GM0163;Hellendoorn;Overijssel;96;8;12
+27-7-2020 10:00;GM0164;Hengelo;Overijssel;130;21;19
+27-7-2020 10:00;GM0166;Kampen;Overijssel;343;59;27
+27-7-2020 10:00;GM0168;Losser;Overijssel;26;7;0
+27-7-2020 10:00;GM0171;Noordoostpolder;Flevoland;81;14;10
+27-7-2020 10:00;GM0173;Oldenzaal;Overijssel;49;13;7
+27-7-2020 10:00;GM0175;Ommen;Overijssel;54;9;2
+27-7-2020 10:00;GM0177;Raalte;Overijssel;156;24;17
+27-7-2020 10:00;GM0180;Staphorst;Overijssel;61;8;4
+27-7-2020 10:00;GM0183;Tubbergen;Overijssel;81;12;5
+27-7-2020 10:00;GM0184;Urk;Flevoland;83;22;4
+27-7-2020 10:00;GM0189;Wierden;Overijssel;51;5;6
+27-7-2020 10:00;GM0193;Zwolle;Overijssel;363;53;46
+27-7-2020 10:00;GM0197;Aalten;Gelderland;60;9;7
+27-7-2020 10:00;GM0200;Apeldoorn;Gelderland;462;97;50
+27-7-2020 10:00;GM0202;Arnhem;Gelderland;423;67;32
+27-7-2020 10:00;GM0203;Barneveld;Gelderland;140;18;6
+27-7-2020 10:00;GM0209;Beuningen;Gelderland;77;19;5
+27-7-2020 10:00;GM0213;Brummen;Gelderland;37;18;6
+27-7-2020 10:00;GM0214;Buren;Gelderland;63;17;8
+27-7-2020 10:00;GM0216;Culemborg;Gelderland;81;21;7
+27-7-2020 10:00;GM0221;Doesburg;Gelderland;32;9;6
+27-7-2020 10:00;GM0222;Doetinchem;Gelderland;103;26;15
+27-7-2020 10:00;GM0225;Druten;Gelderland;115;25;8
+27-7-2020 10:00;GM0226;Duiven;Gelderland;52;14;6
+27-7-2020 10:00;GM0228;Ede;Gelderland;227;53;20
+27-7-2020 10:00;GM0230;Elburg;Gelderland;151;28;8
+27-7-2020 10:00;GM0232;Epe;Gelderland;138;48;23
+27-7-2020 10:00;GM0233;Ermelo;Gelderland;149;33;23
+27-7-2020 10:00;GM0243;Harderwijk;Gelderland;181;42;20
+27-7-2020 10:00;GM0244;Hattem;Gelderland;42;16;5
+27-7-2020 10:00;GM0246;Heerde;Gelderland;192;55;28
+27-7-2020 10:00;GM0252;Heumen;Gelderland;73;17;9
+27-7-2020 10:00;GM0262;Lochem;Gelderland;98;15;15
+27-7-2020 10:00;GM0263;Maasdriel;Gelderland;62;15;7
+27-7-2020 10:00;GM0267;Nijkerk;Gelderland;70;22;3
+27-7-2020 10:00;GM0268;Nijmegen;Gelderland;683;128;70
+27-7-2020 10:00;GM0269;Oldebroek;Gelderland;172;40;19
+27-7-2020 10:00;GM0273;Putten;Gelderland;35;10;0
+27-7-2020 10:00;GM0274;Renkum;Gelderland;81;14;7
+27-7-2020 10:00;GM0275;Rheden;Gelderland;146;34;14
+27-7-2020 10:00;GM0277;Rozendaal;Gelderland;3;1;0
+27-7-2020 10:00;GM0279;Scherpenzeel;Gelderland;33;4;2
+27-7-2020 10:00;GM0281;Tiel;Gelderland;150;42;18
+27-7-2020 10:00;GM0285;Voorst;Gelderland;82;17;11
+27-7-2020 10:00;GM0289;Wageningen;Gelderland;55;20;9
+27-7-2020 10:00;GM0293;Westervoort;Gelderland;43;12;6
+27-7-2020 10:00;GM0294;Winterswijk;Gelderland;48;7;3
+27-7-2020 10:00;GM0296;Wijchen;Gelderland;150;44;13
+27-7-2020 10:00;GM0297;Zaltbommel;Gelderland;100;20;9
+27-7-2020 10:00;GM0299;Zevenaar;Gelderland;120;44;15
+27-7-2020 10:00;GM0301;Zutphen;Gelderland;109;30;13
+27-7-2020 10:00;GM0302;Nunspeet;Gelderland;222;55;21
+27-7-2020 10:00;GM0303;Dronten;Flevoland;124;30;12
+27-7-2020 10:00;GM0307;Amersfoort;Utrecht;264;61;23
+27-7-2020 10:00;GM0308;Baarn;Utrecht;64;11;9
+27-7-2020 10:00;GM0310;De Bilt;Utrecht;188;27;24
+27-7-2020 10:00;GM0312;Bunnik;Utrecht;47;9;1
+27-7-2020 10:00;GM0313;Bunschoten;Utrecht;70;9;7
+27-7-2020 10:00;GM0317;Eemnes;Utrecht;23;2;1
+27-7-2020 10:00;GM0321;Houten;Utrecht;147;24;14
+27-7-2020 10:00;GM0327;Leusden;Utrecht;54;9;5
+27-7-2020 10:00;GM0331;Lopik;Utrecht;64;19;8
+27-7-2020 10:00;GM0335;Montfoort;Utrecht;46;13;5
+27-7-2020 10:00;GM0339;Renswoude;Utrecht;19;5;5
+27-7-2020 10:00;GM0340;Rhenen;Utrecht;48;11;6
+27-7-2020 10:00;GM0342;Soest;Utrecht;97;24;12
+27-7-2020 10:00;GM0344;Utrecht;Utrecht;1431;268;118
+27-7-2020 10:00;GM0345;Veenendaal;Utrecht;197;47;11
+27-7-2020 10:00;GM0351;Woudenberg;Utrecht;33;9;2
+27-7-2020 10:00;GM0352;Wijk bij Duurstede;Utrecht;43;10;1
+27-7-2020 10:00;GM0353;IJsselstein;Utrecht;153;36;34
+27-7-2020 10:00;GM0355;Zeist;Utrecht;223;37;24
+27-7-2020 10:00;GM0356;Nieuwegein;Utrecht;167;44;14
+27-7-2020 10:00;GM0358;Aalsmeer;Noord-Holland;43;9;4
+27-7-2020 10:00;GM0361;Alkmaar;Noord-Holland;251;54;31
+27-7-2020 10:00;GM0362;Amstelveen;Noord-Holland;335;58;35
+27-7-2020 10:00;GM0363;Amsterdam;Noord-Holland;3020;626;282
+27-7-2020 10:00;GM0370;Beemster;Noord-Holland;14;4;1
+27-7-2020 10:00;GM0373;Bergen (NH.);Noord-Holland;99;16;4
+27-7-2020 10:00;GM0375;Beverwijk;Noord-Holland;85;15;10
+27-7-2020 10:00;GM0376;Blaricum;Noord-Holland;33;8;2
+27-7-2020 10:00;GM0377;Bloemendaal;Noord-Holland;54;7;5
+27-7-2020 10:00;GM0383;Castricum;Noord-Holland;81;15;9
+27-7-2020 10:00;GM0384;Diemen;Noord-Holland;109;17;13
+27-7-2020 10:00;GM0385;Edam-Volendam;Noord-Holland;126;25;3
+27-7-2020 10:00;GM0388;Enkhuizen;Noord-Holland;30;18;4
+27-7-2020 10:00;GM0392;Haarlem;Noord-Holland;317;61;58
+27-7-2020 10:00;GM0394;Haarlemmermeer;Noord-Holland;331;68;27
+27-7-2020 10:00;GM0396;Heemskerk;Noord-Holland;94;28;10
+27-7-2020 10:00;GM0397;Heemstede;Noord-Holland;101;11;32
+27-7-2020 10:00;GM0398;Heerhugowaard;Noord-Holland;153;27;9
+27-7-2020 10:00;GM0399;Heiloo;Noord-Holland;49;9;8
+27-7-2020 10:00;GM0400;Den Helder;Noord-Holland;46;12;2
+27-7-2020 10:00;GM0402;Hilversum;Noord-Holland;228;33;24
+27-7-2020 10:00;GM0405;Hoorn;Noord-Holland;105;35;12
+27-7-2020 10:00;GM0406;Huizen;Noord-Holland;164;22;10
+27-7-2020 10:00;GM0415;Landsmeer;Noord-Holland;23;3;3
+27-7-2020 10:00;GM0416;Langedijk;Noord-Holland;52;16;4
+27-7-2020 10:00;GM0417;Laren;Noord-Holland;26;8;2
+27-7-2020 10:00;GM0420;Medemblik;Noord-Holland;74;19;6
+27-7-2020 10:00;GM0431;Oostzaan;Noord-Holland;28;10;2
+27-7-2020 10:00;GM0432;Opmeer;Noord-Holland;9;1;1
+27-7-2020 10:00;GM0437;Ouder-Amstel;Noord-Holland;40;5;0
+27-7-2020 10:00;GM0439;Purmerend;Noord-Holland;229;66;35
+27-7-2020 10:00;GM0441;Schagen;Noord-Holland;77;18;10
+27-7-2020 10:00;GM0448;Texel;Noord-Holland;11;5;2
+27-7-2020 10:00;GM0450;Uitgeest;Noord-Holland;25;5;1
+27-7-2020 10:00;GM0451;Uithoorn;Noord-Holland;58;16;2
+27-7-2020 10:00;GM0453;Velsen;Noord-Holland;287;32;39
+27-7-2020 10:00;GM0457;Weesp;Noord-Holland;83;9;13
+27-7-2020 10:00;GM0473;Zandvoort;Noord-Holland;36;10;8
+27-7-2020 10:00;GM0479;Zaanstad;Noord-Holland;471;118;48
+27-7-2020 10:00;GM0482;Alblasserdam;Zuid-Holland;45;10;4
+27-7-2020 10:00;GM0484;Alphen aan den Rijn;Zuid-Holland;232;62;25
+27-7-2020 10:00;GM0489;Barendrecht;Zuid-Holland;148;40;12
+27-7-2020 10:00;GM0498;Drechterland;Noord-Holland;46;5;8
+27-7-2020 10:00;GM0501;Brielle;Zuid-Holland;34;11;0
+27-7-2020 10:00;GM0502;Capelle aan den IJssel;Zuid-Holland;335;54;54
+27-7-2020 10:00;GM0503;Delft;Zuid-Holland;167;38;12
+27-7-2020 10:00;GM0505;Dordrecht;Zuid-Holland;570;85;62
+27-7-2020 10:00;GM0512;Gorinchem;Zuid-Holland;156;18;15
+27-7-2020 10:00;GM0513;Gouda;Zuid-Holland;289;43;41
+27-7-2020 10:00;GM0518;'s-Gravenhage;Zuid-Holland;1991;344;246
+27-7-2020 10:00;GM0523;Hardinxveld-Giessendam;Zuid-Holland;37;2;2
+27-7-2020 10:00;GM0530;Hellevoetsluis;Zuid-Holland;79;16;3
+27-7-2020 10:00;GM0531;Hendrik-Ido-Ambacht;Zuid-Holland;75;10;6
+27-7-2020 10:00;GM0532;Stede Broec;Noord-Holland;50;18;5
+27-7-2020 10:00;GM0534;Hillegom;Zuid-Holland;71;8;2
+27-7-2020 10:00;GM0537;Katwijk;Zuid-Holland;283;31;15
+27-7-2020 10:00;GM0542;Krimpen aan den IJssel;Zuid-Holland;84;10;8
+27-7-2020 10:00;GM0546;Leiden;Zuid-Holland;183;40;18
+27-7-2020 10:00;GM0547;Leiderdorp;Zuid-Holland;41;14;6
+27-7-2020 10:00;GM0553;Lisse;Zuid-Holland;35;8;2
+27-7-2020 10:00;GM0556;Maassluis;Zuid-Holland;96;20;9
+27-7-2020 10:00;GM0569;Nieuwkoop;Zuid-Holland;52;9;5
+27-7-2020 10:00;GM0575;Noordwijk;Zuid-Holland;59;19;3
+27-7-2020 10:00;GM0579;Oegstgeest;Zuid-Holland;47;8;3
+27-7-2020 10:00;GM0589;Oudewater;Utrecht;63;26;8
+27-7-2020 10:00;GM0590;Papendrecht;Zuid-Holland;84;9;7
+27-7-2020 10:00;GM0597;Ridderkerk;Zuid-Holland;159;37;16
+27-7-2020 10:00;GM0599;Rotterdam;Zuid-Holland;3196;529;347
+27-7-2020 10:00;GM0603;Rijswijk;Zuid-Holland;159;36;22
+27-7-2020 10:00;GM0606;Schiedam;Zuid-Holland;309;58;23
+27-7-2020 10:00;GM0610;Sliedrecht;Zuid-Holland;67;9;5
+27-7-2020 10:00;GM0613;Albrandswaard;Zuid-Holland;119;14;8
+27-7-2020 10:00;GM0614;Westvoorne;Zuid-Holland;27;6;0
+27-7-2020 10:00;GM0622;Vlaardingen;Zuid-Holland;320;43;30
+27-7-2020 10:00;GM0626;Voorschoten;Zuid-Holland;68;9;11
+27-7-2020 10:00;GM0627;Waddinxveen;Zuid-Holland;108;18;7
+27-7-2020 10:00;GM0629;Wassenaar;Zuid-Holland;56;9;12
+27-7-2020 10:00;GM0632;Woerden;Utrecht;182;49;20
+27-7-2020 10:00;GM0637;Zoetermeer;Zuid-Holland;258;53;14
+27-7-2020 10:00;GM0638;Zoeterwoude;Zuid-Holland;15;3;1
+27-7-2020 10:00;GM0642;Zwijndrecht;Zuid-Holland;164;23;26
+27-7-2020 10:00;GM0654;Borsele;Zeeland;28;5;0
+27-7-2020 10:00;GM0664;Goes;Zeeland;131;11;11
+27-7-2020 10:00;GM0668;West Maas en Waal;Gelderland;85;20;9
+27-7-2020 10:00;GM0677;Hulst;Zeeland;33;9;5
+27-7-2020 10:00;GM0678;Kapelle;Zeeland;26;3;1
+27-7-2020 10:00;GM0687;Middelburg;Zeeland;74;18;10
+27-7-2020 10:00;GM0703;Reimerswaal;Zeeland;37;4;2
+27-7-2020 10:00;GM0715;Terneuzen;Zeeland;120;25;4
+27-7-2020 10:00;GM0716;Tholen;Zeeland;170;40;16
+27-7-2020 10:00;GM0717;Veere;Zeeland;31;6;2
+27-7-2020 10:00;GM0718;Vlissingen;Zeeland;60;9;5
+27-7-2020 10:00;GM0736;De Ronde Venen;Utrecht;108;39;13
+27-7-2020 10:00;GM0737;Tytsjerksteradiel;Friesland;16;4;1
+27-7-2020 10:00;GM0743;Asten;Noord-Brabant;78;18;12
+27-7-2020 10:00;GM0744;Baarle-Nassau;Noord-Brabant;25;9;2
+27-7-2020 10:00;GM0748;Bergen op Zoom;Noord-Brabant;188;24;13
+27-7-2020 10:00;GM0753;Best;Noord-Brabant;82;31;10
+27-7-2020 10:00;GM0755;Boekel;Noord-Brabant;89;34;20
+27-7-2020 10:00;GM0756;Boxmeer;Noord-Brabant;126;20;27
+27-7-2020 10:00;GM0757;Boxtel;Noord-Brabant;134;24;26
+27-7-2020 10:00;GM0758;Breda;Noord-Brabant;592;146;64
+27-7-2020 10:00;GM0762;Deurne;Noord-Brabant;192;55;24
+27-7-2020 10:00;GM0765;Pekela;Groningen;5;4;0
+27-7-2020 10:00;GM0766;Dongen;Noord-Brabant;86;20;13
+27-7-2020 10:00;GM0770;Eersel;Noord-Brabant;69;27;10
+27-7-2020 10:00;GM0772;Eindhoven;Noord-Brabant;566;182;85
+27-7-2020 10:00;GM0777;Etten-Leur;Noord-Brabant;214;40;30
+27-7-2020 10:00;GM0779;Geertruidenberg;Noord-Brabant;43;11;6
+27-7-2020 10:00;GM0784;Gilze en Rijen;Noord-Brabant;87;20;15
+27-7-2020 10:00;GM0785;Goirle;Noord-Brabant;84;32;17
+27-7-2020 10:00;GM0786;Grave;Noord-Brabant;71;21;11
+27-7-2020 10:00;GM0788;Haaren;Noord-Brabant;58;18;8
+27-7-2020 10:00;GM0794;Helmond;Noord-Brabant;433;115;43
+27-7-2020 10:00;GM0796;'s-Hertogenbosch;Noord-Brabant;531;128;78
+27-7-2020 10:00;GM0797;Heusden;Noord-Brabant;151;45;22
+27-7-2020 10:00;GM0798;Hilvarenbeek;Noord-Brabant;51;9;6
+27-7-2020 10:00;GM0809;Loon op Zand;Noord-Brabant;61;24;7
+27-7-2020 10:00;GM0815;Mill en Sint Hubert;Noord-Brabant;41;9;5
+27-7-2020 10:00;GM0820;Nuenen, Gerwen en Nederwetten;Noord-Brabant;55;18;9
+27-7-2020 10:00;GM0823;Oirschot;Noord-Brabant;67;13;9
+27-7-2020 10:00;GM0824;Oisterwijk;Noord-Brabant;76;23;11
+27-7-2020 10:00;GM0826;Oosterhout;Noord-Brabant;145;48;17
+27-7-2020 10:00;GM0828;Oss;Noord-Brabant;494;164;87
+27-7-2020 10:00;GM0840;Rucphen;Noord-Brabant;70;10;10
+27-7-2020 10:00;GM0845;Sint-Michielsgestel;Noord-Brabant;119;36;19
+27-7-2020 10:00;GM0847;Someren;Noord-Brabant;107;33;8
+27-7-2020 10:00;GM0848;Son en Breugel;Noord-Brabant;74;31;14
+27-7-2020 10:00;GM0851;Steenbergen;Noord-Brabant;95;13;13
+27-7-2020 10:00;GM0852;Waterland;Noord-Holland;34;16;4
+27-7-2020 10:00;GM0855;Tilburg;Noord-Brabant;851;250;162
+27-7-2020 10:00;GM0856;Uden;Noord-Brabant;263;115;63
+27-7-2020 10:00;GM0858;Valkenswaard;Noord-Brabant;180;19;37
+27-7-2020 10:00;GM0861;Veldhoven;Noord-Brabant;131;31;16
+27-7-2020 10:00;GM0865;Vught;Noord-Brabant;106;42;17
+27-7-2020 10:00;GM0866;Waalre;Noord-Brabant;31;7;5
+27-7-2020 10:00;GM0867;Waalwijk;Noord-Brabant;189;36;36
+27-7-2020 10:00;GM0873;Woensdrecht;Noord-Brabant;74;5;7
+27-7-2020 10:00;GM0879;Zundert;Noord-Brabant;111;24;11
+27-7-2020 10:00;GM0880;Wormerland;Noord-Holland;49;20;6
+27-7-2020 10:00;GM0882;Landgraaf;Limburg;145;52;13
+27-7-2020 10:00;GM0888;Beek;Limburg;44;16;6
+27-7-2020 10:00;GM0889;Beesel;Limburg;45;20;8
+27-7-2020 10:00;GM0893;Bergen (L.);Limburg;25;7;2
+27-7-2020 10:00;GM0899;Brunssum;Limburg;112;44;19
+27-7-2020 10:00;GM0907;Gennep;Limburg;58;16;10
+27-7-2020 10:00;GM0917;Heerlen;Limburg;389;125;54
+27-7-2020 10:00;GM0928;Kerkrade;Limburg;208;64;35
+27-7-2020 10:00;GM0935;Maastricht;Limburg;920;186;140
+27-7-2020 10:00;GM0938;Meerssen;Limburg;119;22;13
+27-7-2020 10:00;GM0944;Mook en Middelaar;Limburg;40;6;5
+27-7-2020 10:00;GM0946;Nederweert;Limburg;53;31;7
+27-7-2020 10:00;GM0957;Roermond;Limburg;138;59;23
+27-7-2020 10:00;GM0965;Simpelveld;Limburg;48;19;5
+27-7-2020 10:00;GM0971;Stein;Limburg;122;43;15
+27-7-2020 10:00;GM0981;Vaals;Limburg;31;10;2
+27-7-2020 10:00;GM0983;Venlo;Limburg;311;129;63
+27-7-2020 10:00;GM0984;Venray;Limburg;127;37;17
+27-7-2020 10:00;GM0986;Voerendaal;Limburg;47;17;8
+27-7-2020 10:00;GM0988;Weert;Limburg;143;67;14
+27-7-2020 10:00;GM0994;Valkenburg aan de Geul;Limburg;88;19;7
+27-7-2020 10:00;GM0995;Lelystad;Flevoland;191;63;29
+27-7-2020 10:00;GM1507;Horst aan de Maas;Limburg;137;41;24
+27-7-2020 10:00;GM1509;Oude IJsselstreek;Gelderland;78;21;9
+27-7-2020 10:00;GM1525;Teylingen;Zuid-Holland;68;14;2
+27-7-2020 10:00;GM1581;Utrechtse Heuvelrug;Utrecht;128;28;14
+27-7-2020 10:00;GM1586;Oost Gelre;Gelderland;77;18;6
+27-7-2020 10:00;GM1598;Koggenland;Noord-Holland;36;6;6
+27-7-2020 10:00;GM1621;Lansingerland;Zuid-Holland;201;43;25
+27-7-2020 10:00;GM1640;Leudal;Limburg;191;53;33
+27-7-2020 10:00;GM1641;Maasgouw;Limburg;107;27;14
+27-7-2020 10:00;GM1652;Gemert-Bakel;Noord-Brabant;219;79;32
+27-7-2020 10:00;GM1655;Halderberge;Noord-Brabant;62;14;7
+27-7-2020 10:00;GM1658;Heeze-Leende;Noord-Brabant;71;16;8
+27-7-2020 10:00;GM1659;Laarbeek;Noord-Brabant;125;41;26
+27-7-2020 10:00;GM1667;Reusel-De Mierden;Noord-Brabant;24;11;2
+27-7-2020 10:00;GM1669;Roerdalen;Limburg;49;27;8
+27-7-2020 10:00;GM1674;Roosendaal;Noord-Brabant;244;28;21
+27-7-2020 10:00;GM1676;Schouwen-Duiveland;Zeeland;96;11;9
+27-7-2020 10:00;GM1680;Aa en Hunze;Drenthe;14;1;0
+27-7-2020 10:00;GM1681;Borger-Odoorn;Drenthe;10;4;3
+27-7-2020 10:00;GM1684;Cuijk;Noord-Brabant;79;12;10
+27-7-2020 10:00;GM1685;Landerd;Noord-Brabant;146;39;21
+27-7-2020 10:00;GM1690;De Wolden;Drenthe;48;11;5
+27-7-2020 10:00;GM1695;Noord-Beveland;Zeeland;11;1;0
+27-7-2020 10:00;GM1696;Wijdemeren;Noord-Holland;36;8;0
+27-7-2020 10:00;GM1699;Noordenveld;Drenthe;21;4;1
+27-7-2020 10:00;GM1700;Twenterand;Overijssel;61;12;2
+27-7-2020 10:00;GM1701;Westerveld;Drenthe;37;9;4
+27-7-2020 10:00;GM1702;Sint Anthonis;Noord-Brabant;71;20;11
+27-7-2020 10:00;GM1705;Lingewaard;Gelderland;131;31;10
+27-7-2020 10:00;GM1706;Cranendonck;Noord-Brabant;173;63;36
+27-7-2020 10:00;GM1708;Steenwijkerland;Overijssel;106;14;5
+27-7-2020 10:00;GM1709;Moerdijk;Noord-Brabant;84;14;8
+27-7-2020 10:00;GM1711;Echt-Susteren;Limburg;93;39;16
+27-7-2020 10:00;GM1714;Sluis;Zeeland;18;9;4
+27-7-2020 10:00;GM1719;Drimmelen;Noord-Brabant;70;18;8
+27-7-2020 10:00;GM1721;Bernheze;Noord-Brabant;281;95;65
+27-7-2020 10:00;GM1723;Alphen-Chaam;Noord-Brabant;55;18;5
+27-7-2020 10:00;GM1724;Bergeijk;Noord-Brabant;58;19;5
+27-7-2020 10:00;GM1728;Bladel;Noord-Brabant;78;21;8
+27-7-2020 10:00;GM1729;Gulpen-Wittem;Limburg;80;21;14
+27-7-2020 10:00;GM1730;Tynaarlo;Drenthe;40;9;0
+27-7-2020 10:00;GM1731;Midden-Drenthe;Drenthe;22;6;0
+27-7-2020 10:00;GM1734;Overbetuwe;Gelderland;138;55;16
+27-7-2020 10:00;GM1735;Hof van Twente;Overijssel;63;15;5
+27-7-2020 10:00;GM1740;Neder-Betuwe;Gelderland;145;37;21
+27-7-2020 10:00;GM1742;Rijssen-Holten;Overijssel;202;29;23
+27-7-2020 10:00;GM1771;Geldrop-Mierlo;Noord-Brabant;110;33;16
+27-7-2020 10:00;GM1773;Olst-Wijhe;Overijssel;51;12;8
+27-7-2020 10:00;GM1774;Dinkelland;Overijssel;75;20;10
+27-7-2020 10:00;GM1783;Westland;Zuid-Holland;305;57;30
+27-7-2020 10:00;GM1842;Midden-Delfland;Zuid-Holland;33;4;0
+27-7-2020 10:00;GM1859;Berkelland;Gelderland;94;12;7
+27-7-2020 10:00;GM1876;Bronckhorst;Gelderland;75;17;7
+27-7-2020 10:00;GM1883;Sittard-Geleen;Limburg;414;115;63
+27-7-2020 10:00;GM1884;Kaag en Braassem;Zuid-Holland;34;7;2
+27-7-2020 10:00;GM1891;Dantumadiel;Friesland;5;2;0
+27-7-2020 10:00;GM1892;Zuidplas;Zuid-Holland;161;24;21
+27-7-2020 10:00;GM1894;Peel en Maas;Limburg;280;144;65
+27-7-2020 10:00;GM1895;Oldambt;Groningen;13;7;2
+27-7-2020 10:00;GM1896;Zwartewaterland;Overijssel;146;35;19
+27-7-2020 10:00;GM1900;Súdwest-Fryslân;Friesland;106;18;6
+27-7-2020 10:00;GM1901;Bodegraven-Reeuwijk;Zuid-Holland;68;7;1
+27-7-2020 10:00;GM1903;Eijsden-Margraten;Limburg;176;54;27
+27-7-2020 10:00;GM1904;Stichtse Vecht;Utrecht;137;34;13
+27-7-2020 10:00;GM1911;Hollands Kroon;Noord-Holland;64;26;6
+27-7-2020 10:00;GM1916;Leidschendam-Voorburg;Zuid-Holland;166;21;15
+27-7-2020 10:00;GM1924;Goeree-Overflakkee;Zuid-Holland;265;54;34
+27-7-2020 10:00;GM1926;Pijnacker-Nootdorp;Zuid-Holland;142;24;16
+27-7-2020 10:00;GM1930;Nissewaard;Zuid-Holland;229;56;17
+27-7-2020 10:00;GM1931;Krimpenerwaard;Zuid-Holland;207;45;34
+27-7-2020 10:00;GM1940;De Fryske Marren;Friesland;74;16;6
+27-7-2020 10:00;GM1942;Gooise Meren;Noord-Holland;126;23;9
+27-7-2020 10:00;GM1945;Berg en Dal;Gelderland;182;29;16
+27-7-2020 10:00;GM1948;Meierijstad;Noord-Brabant;558;211;131
+27-7-2020 10:00;GM1949;Waadhoeke;Friesland;101;12;15
+27-7-2020 10:00;GM1950;Westerwolde;Groningen;7;5;0
+27-7-2020 10:00;GM1952;Midden-Groningen;Groningen;34;6;3
+27-7-2020 10:00;GM1954;Beekdaelen;Limburg;172;52;23
+27-7-2020 10:00;GM1955;Montferland;Gelderland;104;21;9
+27-7-2020 10:00;GM1959;Altena;Noord-Brabant;137;32;11
+27-7-2020 10:00;GM1960;West Betuwe;Gelderland;214;43;27
+27-7-2020 10:00;GM1961;Vijfheerenlanden;Utrecht;277;34;37
+27-7-2020 10:00;GM1963;Hoeksche Waard;Zuid-Holland;320;75;20
+27-7-2020 10:00;GM1966;Het Hogeland;Groningen;35;7;3
+27-7-2020 10:00;GM1969;Westerkwartier;Groningen;58;14;4
+27-7-2020 10:00;GM1970;Noardeast-Fryslân;Friesland;30;6;4
+27-7-2020 10:00;GM1978;Molenlanden;Zuid-Holland;123;18;8
+27-7-2020 10:00;;;Groningen;1;1;0
+27-7-2020 10:00;;;Friesland;2;1;0
+27-7-2020 10:00;;;Drenthe;2;0;0
+27-7-2020 10:00;;;Overijssel;13;1;1
+27-7-2020 10:00;;;Flevoland;1;1;0
+27-7-2020 10:00;;;Gelderland;131;6;2
+27-7-2020 10:00;;;Utrecht;20;5;0
+27-7-2020 10:00;;;Noord-Holland;40;13;2
+27-7-2020 10:00;;;Zuid-Holland;80;9;6
+27-7-2020 10:00;;;Zeeland;4;2;1
+27-7-2020 10:00;;;Noord-Brabant;184;16;3
+27-7-2020 10:00;;;Limburg;24;6;3
+28-7-2020 10:00;GM0003;Appingedam;Groningen;5;3;0
+28-7-2020 10:00;GM0010;Delfzijl;Groningen;18;6;0
+28-7-2020 10:00;GM0014;Groningen;Groningen;184;18;3
+28-7-2020 10:00;GM0024;Loppersum;Groningen;2;0;0
+28-7-2020 10:00;GM0034;Almere;Flevoland;464;124;31
+28-7-2020 10:00;GM0037;Stadskanaal;Groningen;9;2;2
+28-7-2020 10:00;GM0047;Veendam;Groningen;8;2;0
+28-7-2020 10:00;GM0050;Zeewolde;Flevoland;50;12;6
+28-7-2020 10:00;GM0059;Achtkarspelen;Friesland;13;0;0
+28-7-2020 10:00;GM0060;Ameland;Friesland;0;0;0
+28-7-2020 10:00;GM0072;Harlingen;Friesland;17;4;1
+28-7-2020 10:00;GM0074;Heerenveen;Friesland;95;13;21
+28-7-2020 10:00;GM0080;Leeuwarden;Friesland;71;33;6
+28-7-2020 10:00;GM0085;Ooststellingwerf;Friesland;8;3;0
+28-7-2020 10:00;GM0086;Opsterland;Friesland;24;7;0
+28-7-2020 10:00;GM0088;Schiermonnikoog;Friesland;0;0;0
+28-7-2020 10:00;GM0090;Smallingerland;Friesland;58;9;5
+28-7-2020 10:00;GM0093;Terschelling;Friesland;2;0;0
+28-7-2020 10:00;GM0096;Vlieland;Friesland;0;0;0
+28-7-2020 10:00;GM0098;Weststellingwerf;Friesland;28;3;4
+28-7-2020 10:00;GM0106;Assen;Drenthe;51;12;2
+28-7-2020 10:00;GM0109;Coevorden;Drenthe;57;13;2
+28-7-2020 10:00;GM0114;Emmen;Drenthe;105;20;11
+28-7-2020 10:00;GM0118;Hoogeveen;Drenthe;93;19;8
+28-7-2020 10:00;GM0119;Meppel;Drenthe;51;11;5
+28-7-2020 10:00;GM0141;Almelo;Overijssel;93;23;9
+28-7-2020 10:00;GM0147;Borne;Overijssel;50;14;6
+28-7-2020 10:00;GM0148;Dalfsen;Overijssel;82;16;6
+28-7-2020 10:00;GM0150;Deventer;Overijssel;343;47;33
+28-7-2020 10:00;GM0153;Enschede;Overijssel;259;54;25
+28-7-2020 10:00;GM0158;Haaksbergen;Overijssel;56;14;7
+28-7-2020 10:00;GM0160;Hardenberg;Overijssel;171;23;8
+28-7-2020 10:00;GM0163;Hellendoorn;Overijssel;96;8;12
+28-7-2020 10:00;GM0164;Hengelo;Overijssel;130;21;19
+28-7-2020 10:00;GM0166;Kampen;Overijssel;343;59;27
+28-7-2020 10:00;GM0168;Losser;Overijssel;26;7;0
+28-7-2020 10:00;GM0171;Noordoostpolder;Flevoland;81;14;10
+28-7-2020 10:00;GM0173;Oldenzaal;Overijssel;49;13;7
+28-7-2020 10:00;GM0175;Ommen;Overijssel;54;9;2
+28-7-2020 10:00;GM0177;Raalte;Overijssel;156;24;17
+28-7-2020 10:00;GM0180;Staphorst;Overijssel;61;8;4
+28-7-2020 10:00;GM0183;Tubbergen;Overijssel;81;12;5
+28-7-2020 10:00;GM0184;Urk;Flevoland;83;22;4
+28-7-2020 10:00;GM0189;Wierden;Overijssel;51;5;6
+28-7-2020 10:00;GM0193;Zwolle;Overijssel;363;53;46
+28-7-2020 10:00;GM0197;Aalten;Gelderland;60;9;7
+28-7-2020 10:00;GM0200;Apeldoorn;Gelderland;463;97;50
+28-7-2020 10:00;GM0202;Arnhem;Gelderland;424;67;32
+28-7-2020 10:00;GM0203;Barneveld;Gelderland;140;18;6
+28-7-2020 10:00;GM0209;Beuningen;Gelderland;77;19;5
+28-7-2020 10:00;GM0213;Brummen;Gelderland;37;18;6
+28-7-2020 10:00;GM0214;Buren;Gelderland;63;17;8
+28-7-2020 10:00;GM0216;Culemborg;Gelderland;81;21;7
+28-7-2020 10:00;GM0221;Doesburg;Gelderland;32;9;6
+28-7-2020 10:00;GM0222;Doetinchem;Gelderland;103;26;15
+28-7-2020 10:00;GM0225;Druten;Gelderland;115;25;8
+28-7-2020 10:00;GM0226;Duiven;Gelderland;52;14;6
+28-7-2020 10:00;GM0228;Ede;Gelderland;228;53;20
+28-7-2020 10:00;GM0230;Elburg;Gelderland;151;28;8
+28-7-2020 10:00;GM0232;Epe;Gelderland;138;48;23
+28-7-2020 10:00;GM0233;Ermelo;Gelderland;149;33;23
+28-7-2020 10:00;GM0243;Harderwijk;Gelderland;180;42;20
+28-7-2020 10:00;GM0244;Hattem;Gelderland;42;16;5
+28-7-2020 10:00;GM0246;Heerde;Gelderland;192;55;28
+28-7-2020 10:00;GM0252;Heumen;Gelderland;73;17;9
+28-7-2020 10:00;GM0262;Lochem;Gelderland;98;15;15
+28-7-2020 10:00;GM0263;Maasdriel;Gelderland;62;15;7
+28-7-2020 10:00;GM0267;Nijkerk;Gelderland;70;22;3
+28-7-2020 10:00;GM0268;Nijmegen;Gelderland;685;128;70
+28-7-2020 10:00;GM0269;Oldebroek;Gelderland;172;40;19
+28-7-2020 10:00;GM0273;Putten;Gelderland;35;10;0
+28-7-2020 10:00;GM0274;Renkum;Gelderland;81;14;7
+28-7-2020 10:00;GM0275;Rheden;Gelderland;146;34;14
+28-7-2020 10:00;GM0277;Rozendaal;Gelderland;3;1;0
+28-7-2020 10:00;GM0279;Scherpenzeel;Gelderland;33;4;2
+28-7-2020 10:00;GM0281;Tiel;Gelderland;150;42;18
+28-7-2020 10:00;GM0285;Voorst;Gelderland;82;17;11
+28-7-2020 10:00;GM0289;Wageningen;Gelderland;55;20;9
+28-7-2020 10:00;GM0293;Westervoort;Gelderland;43;12;6
+28-7-2020 10:00;GM0294;Winterswijk;Gelderland;48;7;3
+28-7-2020 10:00;GM0296;Wijchen;Gelderland;150;44;13
+28-7-2020 10:00;GM0297;Zaltbommel;Gelderland;101;20;9
+28-7-2020 10:00;GM0299;Zevenaar;Gelderland;120;44;15
+28-7-2020 10:00;GM0301;Zutphen;Gelderland;109;30;13
+28-7-2020 10:00;GM0302;Nunspeet;Gelderland;222;55;21
+28-7-2020 10:00;GM0303;Dronten;Flevoland;124;30;12
+28-7-2020 10:00;GM0307;Amersfoort;Utrecht;266;61;23
+28-7-2020 10:00;GM0308;Baarn;Utrecht;64;11;9
+28-7-2020 10:00;GM0310;De Bilt;Utrecht;189;27;24
+28-7-2020 10:00;GM0312;Bunnik;Utrecht;47;9;1
+28-7-2020 10:00;GM0313;Bunschoten;Utrecht;70;9;7
+28-7-2020 10:00;GM0317;Eemnes;Utrecht;23;2;1
+28-7-2020 10:00;GM0321;Houten;Utrecht;147;24;14
+28-7-2020 10:00;GM0327;Leusden;Utrecht;55;9;5
+28-7-2020 10:00;GM0331;Lopik;Utrecht;65;19;8
+28-7-2020 10:00;GM0335;Montfoort;Utrecht;46;13;5
+28-7-2020 10:00;GM0339;Renswoude;Utrecht;19;5;5
+28-7-2020 10:00;GM0340;Rhenen;Utrecht;48;11;6
+28-7-2020 10:00;GM0342;Soest;Utrecht;97;24;13
+28-7-2020 10:00;GM0344;Utrecht;Utrecht;1433;269;118
+28-7-2020 10:00;GM0345;Veenendaal;Utrecht;197;47;11
+28-7-2020 10:00;GM0351;Woudenberg;Utrecht;33;9;2
+28-7-2020 10:00;GM0352;Wijk bij Duurstede;Utrecht;43;10;1
+28-7-2020 10:00;GM0353;IJsselstein;Utrecht;153;36;34
+28-7-2020 10:00;GM0355;Zeist;Utrecht;223;37;24
+28-7-2020 10:00;GM0356;Nieuwegein;Utrecht;167;44;14
+28-7-2020 10:00;GM0358;Aalsmeer;Noord-Holland;43;9;4
+28-7-2020 10:00;GM0361;Alkmaar;Noord-Holland;253;54;31
+28-7-2020 10:00;GM0362;Amstelveen;Noord-Holland;336;58;35
+28-7-2020 10:00;GM0363;Amsterdam;Noord-Holland;3049;629;282
+28-7-2020 10:00;GM0370;Beemster;Noord-Holland;14;4;1
+28-7-2020 10:00;GM0373;Bergen (NH.);Noord-Holland;100;16;4
+28-7-2020 10:00;GM0375;Beverwijk;Noord-Holland;85;15;10
+28-7-2020 10:00;GM0376;Blaricum;Noord-Holland;33;8;2
+28-7-2020 10:00;GM0377;Bloemendaal;Noord-Holland;55;7;5
+28-7-2020 10:00;GM0383;Castricum;Noord-Holland;83;15;9
+28-7-2020 10:00;GM0384;Diemen;Noord-Holland;109;17;13
+28-7-2020 10:00;GM0385;Edam-Volendam;Noord-Holland;126;25;3
+28-7-2020 10:00;GM0388;Enkhuizen;Noord-Holland;30;18;4
+28-7-2020 10:00;GM0392;Haarlem;Noord-Holland;317;61;58
+28-7-2020 10:00;GM0394;Haarlemmermeer;Noord-Holland;334;68;27
+28-7-2020 10:00;GM0396;Heemskerk;Noord-Holland;94;28;10
+28-7-2020 10:00;GM0397;Heemstede;Noord-Holland;101;11;32
+28-7-2020 10:00;GM0398;Heerhugowaard;Noord-Holland;155;27;9
+28-7-2020 10:00;GM0399;Heiloo;Noord-Holland;49;9;8
+28-7-2020 10:00;GM0400;Den Helder;Noord-Holland;46;12;2
+28-7-2020 10:00;GM0402;Hilversum;Noord-Holland;228;33;24
+28-7-2020 10:00;GM0405;Hoorn;Noord-Holland;107;35;12
+28-7-2020 10:00;GM0406;Huizen;Noord-Holland;165;22;10
+28-7-2020 10:00;GM0415;Landsmeer;Noord-Holland;23;3;3
+28-7-2020 10:00;GM0416;Langedijk;Noord-Holland;52;16;4
+28-7-2020 10:00;GM0417;Laren;Noord-Holland;26;8;2
+28-7-2020 10:00;GM0420;Medemblik;Noord-Holland;74;19;6
+28-7-2020 10:00;GM0431;Oostzaan;Noord-Holland;28;10;2
+28-7-2020 10:00;GM0432;Opmeer;Noord-Holland;9;1;1
+28-7-2020 10:00;GM0437;Ouder-Amstel;Noord-Holland;40;5;0
+28-7-2020 10:00;GM0439;Purmerend;Noord-Holland;229;66;35
+28-7-2020 10:00;GM0441;Schagen;Noord-Holland;77;18;10
+28-7-2020 10:00;GM0448;Texel;Noord-Holland;11;5;2
+28-7-2020 10:00;GM0450;Uitgeest;Noord-Holland;25;5;1
+28-7-2020 10:00;GM0451;Uithoorn;Noord-Holland;58;16;2
+28-7-2020 10:00;GM0453;Velsen;Noord-Holland;287;32;39
+28-7-2020 10:00;GM0457;Weesp;Noord-Holland;83;9;13
+28-7-2020 10:00;GM0473;Zandvoort;Noord-Holland;37;10;8
+28-7-2020 10:00;GM0479;Zaanstad;Noord-Holland;475;118;48
+28-7-2020 10:00;GM0482;Alblasserdam;Zuid-Holland;45;10;4
+28-7-2020 10:00;GM0484;Alphen aan den Rijn;Zuid-Holland;235;62;25
+28-7-2020 10:00;GM0489;Barendrecht;Zuid-Holland;149;40;12
+28-7-2020 10:00;GM0498;Drechterland;Noord-Holland;46;5;8
+28-7-2020 10:00;GM0501;Brielle;Zuid-Holland;34;11;0
+28-7-2020 10:00;GM0502;Capelle aan den IJssel;Zuid-Holland;339;54;54
+28-7-2020 10:00;GM0503;Delft;Zuid-Holland;169;38;12
+28-7-2020 10:00;GM0505;Dordrecht;Zuid-Holland;572;85;62
+28-7-2020 10:00;GM0512;Gorinchem;Zuid-Holland;159;18;15
+28-7-2020 10:00;GM0513;Gouda;Zuid-Holland;290;43;41
+28-7-2020 10:00;GM0518;'s-Gravenhage;Zuid-Holland;2006;344;247
+28-7-2020 10:00;GM0523;Hardinxveld-Giessendam;Zuid-Holland;37;2;2
+28-7-2020 10:00;GM0530;Hellevoetsluis;Zuid-Holland;80;16;3
+28-7-2020 10:00;GM0531;Hendrik-Ido-Ambacht;Zuid-Holland;75;10;6
+28-7-2020 10:00;GM0532;Stede Broec;Noord-Holland;50;18;5
+28-7-2020 10:00;GM0534;Hillegom;Zuid-Holland;74;8;2
+28-7-2020 10:00;GM0537;Katwijk;Zuid-Holland;284;31;15
+28-7-2020 10:00;GM0542;Krimpen aan den IJssel;Zuid-Holland;86;10;8
+28-7-2020 10:00;GM0546;Leiden;Zuid-Holland;188;40;18
+28-7-2020 10:00;GM0547;Leiderdorp;Zuid-Holland;41;14;6
+28-7-2020 10:00;GM0553;Lisse;Zuid-Holland;37;8;2
+28-7-2020 10:00;GM0556;Maassluis;Zuid-Holland;96;20;9
+28-7-2020 10:00;GM0569;Nieuwkoop;Zuid-Holland;54;9;5
+28-7-2020 10:00;GM0575;Noordwijk;Zuid-Holland;59;19;3
+28-7-2020 10:00;GM0579;Oegstgeest;Zuid-Holland;47;8;3
+28-7-2020 10:00;GM0589;Oudewater;Utrecht;63;26;8
+28-7-2020 10:00;GM0590;Papendrecht;Zuid-Holland;84;9;8
+28-7-2020 10:00;GM0597;Ridderkerk;Zuid-Holland;160;37;16
+28-7-2020 10:00;GM0599;Rotterdam;Zuid-Holland;3244;529;347
+28-7-2020 10:00;GM0603;Rijswijk;Zuid-Holland;161;36;22
+28-7-2020 10:00;GM0606;Schiedam;Zuid-Holland;309;58;23
+28-7-2020 10:00;GM0610;Sliedrecht;Zuid-Holland;69;9;5
+28-7-2020 10:00;GM0613;Albrandswaard;Zuid-Holland;119;14;8
+28-7-2020 10:00;GM0614;Westvoorne;Zuid-Holland;27;6;0
+28-7-2020 10:00;GM0622;Vlaardingen;Zuid-Holland;324;43;30
+28-7-2020 10:00;GM0626;Voorschoten;Zuid-Holland;68;9;11
+28-7-2020 10:00;GM0627;Waddinxveen;Zuid-Holland;108;18;7
+28-7-2020 10:00;GM0629;Wassenaar;Zuid-Holland;56;9;12
+28-7-2020 10:00;GM0632;Woerden;Utrecht;182;49;20
+28-7-2020 10:00;GM0637;Zoetermeer;Zuid-Holland;260;53;14
+28-7-2020 10:00;GM0638;Zoeterwoude;Zuid-Holland;15;3;1
+28-7-2020 10:00;GM0642;Zwijndrecht;Zuid-Holland;164;23;26
+28-7-2020 10:00;GM0654;Borsele;Zeeland;28;5;0
+28-7-2020 10:00;GM0664;Goes;Zeeland;134;11;11
+28-7-2020 10:00;GM0668;West Maas en Waal;Gelderland;85;20;9
+28-7-2020 10:00;GM0677;Hulst;Zeeland;33;9;5
+28-7-2020 10:00;GM0678;Kapelle;Zeeland;26;3;1
+28-7-2020 10:00;GM0687;Middelburg;Zeeland;77;18;10
+28-7-2020 10:00;GM0703;Reimerswaal;Zeeland;37;4;2
+28-7-2020 10:00;GM0715;Terneuzen;Zeeland;120;25;4
+28-7-2020 10:00;GM0716;Tholen;Zeeland;170;40;16
+28-7-2020 10:00;GM0717;Veere;Zeeland;32;6;2
+28-7-2020 10:00;GM0718;Vlissingen;Zeeland;61;9;5
+28-7-2020 10:00;GM0736;De Ronde Venen;Utrecht;108;39;13
+28-7-2020 10:00;GM0737;Tytsjerksteradiel;Friesland;16;4;1
+28-7-2020 10:00;GM0743;Asten;Noord-Brabant;78;18;12
+28-7-2020 10:00;GM0744;Baarle-Nassau;Noord-Brabant;25;9;2
+28-7-2020 10:00;GM0748;Bergen op Zoom;Noord-Brabant;188;24;13
+28-7-2020 10:00;GM0753;Best;Noord-Brabant;82;31;10
+28-7-2020 10:00;GM0755;Boekel;Noord-Brabant;89;34;20
+28-7-2020 10:00;GM0756;Boxmeer;Noord-Brabant;126;20;27
+28-7-2020 10:00;GM0757;Boxtel;Noord-Brabant;134;24;26
+28-7-2020 10:00;GM0758;Breda;Noord-Brabant;601;146;64
+28-7-2020 10:00;GM0762;Deurne;Noord-Brabant;192;55;24
+28-7-2020 10:00;GM0765;Pekela;Groningen;5;4;0
+28-7-2020 10:00;GM0766;Dongen;Noord-Brabant;86;20;13
+28-7-2020 10:00;GM0770;Eersel;Noord-Brabant;69;27;10
+28-7-2020 10:00;GM0772;Eindhoven;Noord-Brabant;568;182;85
+28-7-2020 10:00;GM0777;Etten-Leur;Noord-Brabant;216;40;30
+28-7-2020 10:00;GM0779;Geertruidenberg;Noord-Brabant;43;11;6
+28-7-2020 10:00;GM0784;Gilze en Rijen;Noord-Brabant;87;20;15
+28-7-2020 10:00;GM0785;Goirle;Noord-Brabant;86;32;17
+28-7-2020 10:00;GM0786;Grave;Noord-Brabant;71;21;11
+28-7-2020 10:00;GM0788;Haaren;Noord-Brabant;58;18;8
+28-7-2020 10:00;GM0794;Helmond;Noord-Brabant;435;115;43
+28-7-2020 10:00;GM0796;'s-Hertogenbosch;Noord-Brabant;533;128;78
+28-7-2020 10:00;GM0797;Heusden;Noord-Brabant;153;45;22
+28-7-2020 10:00;GM0798;Hilvarenbeek;Noord-Brabant;51;9;6
+28-7-2020 10:00;GM0809;Loon op Zand;Noord-Brabant;61;24;7
+28-7-2020 10:00;GM0815;Mill en Sint Hubert;Noord-Brabant;41;9;5
+28-7-2020 10:00;GM0820;Nuenen, Gerwen en Nederwetten;Noord-Brabant;55;18;9
+28-7-2020 10:00;GM0823;Oirschot;Noord-Brabant;67;13;9
+28-7-2020 10:00;GM0824;Oisterwijk;Noord-Brabant;76;23;11
+28-7-2020 10:00;GM0826;Oosterhout;Noord-Brabant;147;48;17
+28-7-2020 10:00;GM0828;Oss;Noord-Brabant;495;164;87
+28-7-2020 10:00;GM0840;Rucphen;Noord-Brabant;70;10;10
+28-7-2020 10:00;GM0845;Sint-Michielsgestel;Noord-Brabant;119;36;19
+28-7-2020 10:00;GM0847;Someren;Noord-Brabant;107;33;8
+28-7-2020 10:00;GM0848;Son en Breugel;Noord-Brabant;74;31;14
+28-7-2020 10:00;GM0851;Steenbergen;Noord-Brabant;95;13;13
+28-7-2020 10:00;GM0852;Waterland;Noord-Holland;34;16;4
+28-7-2020 10:00;GM0855;Tilburg;Noord-Brabant;854;250;162
+28-7-2020 10:00;GM0856;Uden;Noord-Brabant;263;115;63
+28-7-2020 10:00;GM0858;Valkenswaard;Noord-Brabant;180;19;37
+28-7-2020 10:00;GM0861;Veldhoven;Noord-Brabant;131;31;16
+28-7-2020 10:00;GM0865;Vught;Noord-Brabant;106;42;17
+28-7-2020 10:00;GM0866;Waalre;Noord-Brabant;31;7;5
+28-7-2020 10:00;GM0867;Waalwijk;Noord-Brabant;189;36;36
+28-7-2020 10:00;GM0873;Woensdrecht;Noord-Brabant;74;5;7
+28-7-2020 10:00;GM0879;Zundert;Noord-Brabant;112;24;11
+28-7-2020 10:00;GM0880;Wormerland;Noord-Holland;49;20;6
+28-7-2020 10:00;GM0882;Landgraaf;Limburg;145;52;13
+28-7-2020 10:00;GM0888;Beek;Limburg;44;16;6
+28-7-2020 10:00;GM0889;Beesel;Limburg;45;20;8
+28-7-2020 10:00;GM0893;Bergen (L.);Limburg;25;7;2
+28-7-2020 10:00;GM0899;Brunssum;Limburg;112;44;19
+28-7-2020 10:00;GM0907;Gennep;Limburg;58;16;10
+28-7-2020 10:00;GM0917;Heerlen;Limburg;389;125;54
+28-7-2020 10:00;GM0928;Kerkrade;Limburg;208;64;35
+28-7-2020 10:00;GM0935;Maastricht;Limburg;922;186;140
+28-7-2020 10:00;GM0938;Meerssen;Limburg;119;22;13
+28-7-2020 10:00;GM0944;Mook en Middelaar;Limburg;40;6;5
+28-7-2020 10:00;GM0946;Nederweert;Limburg;53;31;7
+28-7-2020 10:00;GM0957;Roermond;Limburg;138;59;23
+28-7-2020 10:00;GM0965;Simpelveld;Limburg;48;19;5
+28-7-2020 10:00;GM0971;Stein;Limburg;122;43;15
+28-7-2020 10:00;GM0981;Vaals;Limburg;31;10;2
+28-7-2020 10:00;GM0983;Venlo;Limburg;311;129;63
+28-7-2020 10:00;GM0984;Venray;Limburg;127;37;17
+28-7-2020 10:00;GM0986;Voerendaal;Limburg;47;17;8
+28-7-2020 10:00;GM0988;Weert;Limburg;143;67;14
+28-7-2020 10:00;GM0994;Valkenburg aan de Geul;Limburg;88;19;7
+28-7-2020 10:00;GM0995;Lelystad;Flevoland;191;63;29
+28-7-2020 10:00;GM1507;Horst aan de Maas;Limburg;137;41;24
+28-7-2020 10:00;GM1509;Oude IJsselstreek;Gelderland;78;21;9
+28-7-2020 10:00;GM1525;Teylingen;Zuid-Holland;68;14;2
+28-7-2020 10:00;GM1581;Utrechtse Heuvelrug;Utrecht;128;28;14
+28-7-2020 10:00;GM1586;Oost Gelre;Gelderland;77;18;6
+28-7-2020 10:00;GM1598;Koggenland;Noord-Holland;36;6;6
+28-7-2020 10:00;GM1621;Lansingerland;Zuid-Holland;201;43;25
+28-7-2020 10:00;GM1640;Leudal;Limburg;191;53;33
+28-7-2020 10:00;GM1641;Maasgouw;Limburg;107;27;14
+28-7-2020 10:00;GM1652;Gemert-Bakel;Noord-Brabant;219;79;32
+28-7-2020 10:00;GM1655;Halderberge;Noord-Brabant;63;14;7
+28-7-2020 10:00;GM1658;Heeze-Leende;Noord-Brabant;71;16;8
+28-7-2020 10:00;GM1659;Laarbeek;Noord-Brabant;125;41;26
+28-7-2020 10:00;GM1667;Reusel-De Mierden;Noord-Brabant;24;11;2
+28-7-2020 10:00;GM1669;Roerdalen;Limburg;49;27;8
+28-7-2020 10:00;GM1674;Roosendaal;Noord-Brabant;247;28;21
+28-7-2020 10:00;GM1676;Schouwen-Duiveland;Zeeland;96;11;9
+28-7-2020 10:00;GM1680;Aa en Hunze;Drenthe;14;1;0
+28-7-2020 10:00;GM1681;Borger-Odoorn;Drenthe;10;4;3
+28-7-2020 10:00;GM1684;Cuijk;Noord-Brabant;79;12;10
+28-7-2020 10:00;GM1685;Landerd;Noord-Brabant;146;39;21
+28-7-2020 10:00;GM1690;De Wolden;Drenthe;48;11;5
+28-7-2020 10:00;GM1695;Noord-Beveland;Zeeland;11;1;0
+28-7-2020 10:00;GM1696;Wijdemeren;Noord-Holland;36;8;0
+28-7-2020 10:00;GM1699;Noordenveld;Drenthe;21;4;1
+28-7-2020 10:00;GM1700;Twenterand;Overijssel;61;12;2
+28-7-2020 10:00;GM1701;Westerveld;Drenthe;37;9;4
+28-7-2020 10:00;GM1702;Sint Anthonis;Noord-Brabant;71;20;11
+28-7-2020 10:00;GM1705;Lingewaard;Gelderland;131;31;10
+28-7-2020 10:00;GM1706;Cranendonck;Noord-Brabant;173;63;36
+28-7-2020 10:00;GM1708;Steenwijkerland;Overijssel;106;14;5
+28-7-2020 10:00;GM1709;Moerdijk;Noord-Brabant;84;14;8
+28-7-2020 10:00;GM1711;Echt-Susteren;Limburg;93;39;16
+28-7-2020 10:00;GM1714;Sluis;Zeeland;18;9;4
+28-7-2020 10:00;GM1719;Drimmelen;Noord-Brabant;70;18;8
+28-7-2020 10:00;GM1721;Bernheze;Noord-Brabant;281;95;65
+28-7-2020 10:00;GM1723;Alphen-Chaam;Noord-Brabant;55;18;5
+28-7-2020 10:00;GM1724;Bergeijk;Noord-Brabant;58;19;5
+28-7-2020 10:00;GM1728;Bladel;Noord-Brabant;78;21;8
+28-7-2020 10:00;GM1729;Gulpen-Wittem;Limburg;80;21;14
+28-7-2020 10:00;GM1730;Tynaarlo;Drenthe;40;9;0
+28-7-2020 10:00;GM1731;Midden-Drenthe;Drenthe;22;6;0
+28-7-2020 10:00;GM1734;Overbetuwe;Gelderland;138;55;16
+28-7-2020 10:00;GM1735;Hof van Twente;Overijssel;63;15;5
+28-7-2020 10:00;GM1740;Neder-Betuwe;Gelderland;145;37;21
+28-7-2020 10:00;GM1742;Rijssen-Holten;Overijssel;202;29;23
+28-7-2020 10:00;GM1771;Geldrop-Mierlo;Noord-Brabant;110;33;16
+28-7-2020 10:00;GM1773;Olst-Wijhe;Overijssel;51;12;8
+28-7-2020 10:00;GM1774;Dinkelland;Overijssel;75;20;10
+28-7-2020 10:00;GM1783;Westland;Zuid-Holland;306;57;30
+28-7-2020 10:00;GM1842;Midden-Delfland;Zuid-Holland;33;4;0
+28-7-2020 10:00;GM1859;Berkelland;Gelderland;94;12;7
+28-7-2020 10:00;GM1876;Bronckhorst;Gelderland;75;17;7
+28-7-2020 10:00;GM1883;Sittard-Geleen;Limburg;414;115;64
+28-7-2020 10:00;GM1884;Kaag en Braassem;Zuid-Holland;34;7;2
+28-7-2020 10:00;GM1891;Dantumadiel;Friesland;5;2;0
+28-7-2020 10:00;GM1892;Zuidplas;Zuid-Holland;161;24;21
+28-7-2020 10:00;GM1894;Peel en Maas;Limburg;280;144;65
+28-7-2020 10:00;GM1895;Oldambt;Groningen;13;7;2
+28-7-2020 10:00;GM1896;Zwartewaterland;Overijssel;146;35;19
+28-7-2020 10:00;GM1900;Súdwest-Fryslân;Friesland;106;18;6
+28-7-2020 10:00;GM1901;Bodegraven-Reeuwijk;Zuid-Holland;68;7;1
+28-7-2020 10:00;GM1903;Eijsden-Margraten;Limburg;176;54;27
+28-7-2020 10:00;GM1904;Stichtse Vecht;Utrecht;139;34;13
+28-7-2020 10:00;GM1911;Hollands Kroon;Noord-Holland;64;26;6
+28-7-2020 10:00;GM1916;Leidschendam-Voorburg;Zuid-Holland;166;21;15
+28-7-2020 10:00;GM1924;Goeree-Overflakkee;Zuid-Holland;265;54;34
+28-7-2020 10:00;GM1926;Pijnacker-Nootdorp;Zuid-Holland;143;24;16
+28-7-2020 10:00;GM1930;Nissewaard;Zuid-Holland;231;56;17
+28-7-2020 10:00;GM1931;Krimpenerwaard;Zuid-Holland;207;45;34
+28-7-2020 10:00;GM1940;De Fryske Marren;Friesland;74;16;6
+28-7-2020 10:00;GM1942;Gooise Meren;Noord-Holland;126;23;9
+28-7-2020 10:00;GM1945;Berg en Dal;Gelderland;182;29;16
+28-7-2020 10:00;GM1948;Meierijstad;Noord-Brabant;558;211;131
+28-7-2020 10:00;GM1949;Waadhoeke;Friesland;101;12;15
+28-7-2020 10:00;GM1950;Westerwolde;Groningen;7;5;0
+28-7-2020 10:00;GM1952;Midden-Groningen;Groningen;34;6;3
+28-7-2020 10:00;GM1954;Beekdaelen;Limburg;172;52;23
+28-7-2020 10:00;GM1955;Montferland;Gelderland;104;21;9
+28-7-2020 10:00;GM1959;Altena;Noord-Brabant;140;32;11
+28-7-2020 10:00;GM1960;West Betuwe;Gelderland;214;43;27
+28-7-2020 10:00;GM1961;Vijfheerenlanden;Utrecht;278;34;37
+28-7-2020 10:00;GM1963;Hoeksche Waard;Zuid-Holland;320;76;20
+28-7-2020 10:00;GM1966;Het Hogeland;Groningen;36;7;3
+28-7-2020 10:00;GM1969;Westerkwartier;Groningen;58;14;4
+28-7-2020 10:00;GM1970;Noardeast-Fryslân;Friesland;30;6;4
+28-7-2020 10:00;GM1978;Molenlanden;Zuid-Holland;123;18;8
+28-7-2020 10:00;;;Groningen;1;1;0
+28-7-2020 10:00;;;Friesland;2;1;0
+28-7-2020 10:00;;;Drenthe;2;0;0
+28-7-2020 10:00;;;Overijssel;13;1;1
+28-7-2020 10:00;;;Flevoland;1;1;0
+28-7-2020 10:00;;;Gelderland;131;6;2
+28-7-2020 10:00;;;Utrecht;19;5;0
+28-7-2020 10:00;;;Noord-Holland;40;13;2
+28-7-2020 10:00;;;Zuid-Holland;81;9;6
+28-7-2020 10:00;;;Zeeland;4;2;1
+28-7-2020 10:00;;;Noord-Brabant;184;16;3
+28-7-2020 10:00;;;Limburg;24;6;3
