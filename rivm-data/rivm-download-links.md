@@ -12,8 +12,6 @@ Download situatie per 2 weken via knop naast kaart
 https://www.rivm.nl/coronavirus-covid-19/actueel
 
 
-
-
 # Csv to Json converter
 https://csvjson.com/csv2json
 
