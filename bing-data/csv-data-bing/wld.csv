@@ -1,4 +1,4 @@
-WLD;Confirmed;ConfirmedChange;Deaths;DeathsChange;Recovered;RecoveredChange;Latitude;Longitude;ISO2;ISO3;Country_Region;AdminRegion1;AdminRegion2
+Updated;Confirmed;ConfirmedChange;Deaths;DeathsChange;Recovered;RecoveredChange;Latitude;Longitude;ISO2;ISO3;Country_Region;AdminRegion1;AdminRegion2
 21-1-2020;262;;0;;;;;;;;Worldwide;;
 22-1-2020;313;51;0;0;;;;;;;Worldwide;;
 23-1-2020;578;265;0;0;;;;;;;Worldwide;;
@@ -185,3 +185,6 @@ WLD;Confirmed;ConfirmedChange;Deaths;DeathsChange;Recovered;RecoveredChange;Lati
 22-7-2020;15008046;233159;617902;6303;8511330;171288;;;;;Worldwide;;
 23-7-2020;15429889;421843;631680;13778;8758636;247306;;;;;Worldwide;;
 24-7-2020;15628936;199047;636262;4582;8917141;158505;;;;;Worldwide;;
+25-7-2020;15909757;280821;641889;5627;9164700;247559;;;;;Worldwide;;
+26-7-2020;16117308;207551;645482;3593;9289876;125176;;;;;Worldwide;;
+27-7-2020;16360298;242990;650918;5436;9454796;164920;;;;;Worldwide;;
