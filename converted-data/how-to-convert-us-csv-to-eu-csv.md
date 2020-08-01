@@ -1,9 +1,45 @@
 # Bing COVID-19 data
 
-## FAQ
+## Links
+https://csvjson.com/csv2json
 
-### What data is available in the Bing COVID-19-Data GitHub repo?
-Bing COVID-19 data includes confirmed, fatal, and recovered cases from all regions, updated daily in a .csv file. If there is an update or correction to already-published data, the data file will be updated accordingly. To ensure the stability of the data we share, it will be released with a 24-hour delay.
+
+### Conversion US type CSV to EU (NL) type CSV
+1) Excel (Dutch)
+Note Data is presented as comma separated
+2) TAB Gegevens > Knop: Tekst naar kolommen
+3) Vink alleen 'comma'
+4) Sla ID-kolom over, Updated-kolom heeft format MDJ, Longitude- en Latitude-kolommen kies format Tekst en Advanced > Kies voor decimal een 'point' en voor duizend separator selecteer 'empty'
+voor getallen-kolommen: standaard en tekst kolommen standaard teks
+5) Converteer
+
+|Updated|               moet worden 'DD-MM-JJJ'
+
+|Confirmed|             getal
+|ConfirmedChange|       getal
+|Deaths|                getal
+|DeathsChange|          getal
+|Recovered|             getal
+|RecoveredChange|       getal
+|Latitude|              TEKST - ADVANCED
+|Longitude|             TEKST - ADVANCED
+|ISO2|                  TEKST - STANDAARD
+|ISO3|                  TEKST - STANDAARD
+|Country_Region|        TEKST - STANDAARD
+|AdminRegion1|          TEKST - STANDAARD
+|AdminRegion2|          TEKST - STANDAARD
+
+
+
+
+
+
+### Conversion: Csv To Json 
+
+https://csvjson.com/csv2json
+
+
+1
 
 ### What are the sources of the data?
 We collect data from multiple trusted, reliable sources, including the [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019), [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html), national and state public health departments, [BNO News](https://bnonews.com/index.php/2020/04/the-latest-coronavirus-cases/), [24/7 Wall St.](https://247wallst.com/), and [Wikipedia](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_pandemic).
