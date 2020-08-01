@@ -3022,5 +3022,21 @@
     "Country_Region": "Worldwide",
     "AdminRegion1": "",
     "AdminRegion2": ""
+  },
+  {
+    "Updated": "28-7-2020",
+    "Confirmed": 16605067,
+    "ConfirmedChange": 244769,
+    "Deaths": 657337,
+    "DeathsChange": 6419,
+    "Recovered": 9644387,
+    "RecoveredChange": 189591,
+    "Latitude": "",
+    "Longitude": "",
+    "ISO2": "",
+    "ISO3": "",
+    "Country_Region": "Worldwide",
+    "AdminRegion1": "",
+    "AdminRegion2": ""
   }
 ]
