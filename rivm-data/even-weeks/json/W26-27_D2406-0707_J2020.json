@@ -1,0 +1,3197 @@
+[
+  {
+    "Municipality_code": "Aa en Hunze",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Aalsmeer",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Aalten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Achtkarspelen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Alblasserdam",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Albrandswaard",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "19,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Alkmaar",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "1,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Almelo",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "2,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Almere",
+    "Total_reported": 8,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Alphen aan den Rijn",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "3,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Alphen-Chaam",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Altena",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "5,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ameland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Amersfoort",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "0,6",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Amstelveen",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "5,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Amsterdam",
+    "Total_reported": 72,
+    "Total_reported_per_100000": "8,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Apeldoorn",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "2,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Appingedam",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Arnhem",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "3,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Assen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Asten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Baarle-Nassau",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Baarn",
+    "Total_reported": 2,
+    "Total_reported_per_100000": 8,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Barendrecht",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Barneveld",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "10,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beek (L.)",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beekdaelen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beemster",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beesel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Berg en Dal",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "5,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bergeijk",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bergen (L.)",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bergen (NH.)",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bergen op Zoom",
+    "Total_reported": 2,
+    "Total_reported_per_100000": 3,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "1,5"
+  },
+  {
+    "Municipality_code": "Berkelland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bernheze",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "9,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Best",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beuningen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Beverwijk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bladel",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "19,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Blaricum",
+    "Total_reported": 3,
+    "Total_reported_per_100000": 26,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bloemendaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bodegraven-Reeuwijk",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "14,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Boekel",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "9,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Borger-Odoorn",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Borne",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Borsele",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Boxmeer",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Boxtel",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "16,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Breda",
+    "Total_reported": 11,
+    "Total_reported_per_100000": 6,
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "0,5",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Brielle",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bronckhorst",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Brummen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Brunssum",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "7,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bunnik",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "6,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Bunschoten",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "9,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Buren",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Capelle aan den IJssel",
+    "Total_reported": 11,
+    "Total_reported_per_100000": "16,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Castricum",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Coevorden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Cranendonck",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Cuijk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": 4,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Culemborg",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dalfsen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dantumadiel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "De Bilt",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "9,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "De Fryske Marren",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "De Ronde Venen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "De Wolden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Delft",
+    "Total_reported": 7,
+    "Total_reported_per_100000": "6,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Delfzijl",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Den Helder",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Deurne",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Deventer",
+    "Total_reported": 25,
+    "Total_reported_per_100000": "24,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Diemen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dinkelland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Doesburg",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Doetinchem",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "1,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dongen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dordrecht",
+    "Total_reported": 6,
+    "Total_reported_per_100000": 5,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Drechterland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Drimmelen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Dronten",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "7,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Druten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Duiven",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Echt-Susteren",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Edam-Volendam",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ede",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "0,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Eemnes",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Eersel",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "5,2",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "5,2",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Eijsden-Margraten",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Eindhoven",
+    "Total_reported": 9,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Elburg",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Emmen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Enkhuizen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Enschede",
+    "Total_reported": 8,
+    "Total_reported_per_100000": 5,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Epe",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ermelo",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "7,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Etten-Leur",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "4,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Geertruidenberg",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Geldrop-Mierlo",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gemert-Bakel",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "3,3"
+  },
+  {
+    "Municipality_code": "Gennep",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gilze en Rijen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Goeree-Overflakkee",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Goes",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "15,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Goirle",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "8,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gooise Meren",
+    "Total_reported": 7,
+    "Total_reported_per_100000": "12,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gorinchem",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gouda",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "4,1",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "1,4",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Grave",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Groningen (gemeente)",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "1,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Gulpen-Wittem",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "7,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Haaksbergen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Haaren",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "20,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Haarlem",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "3,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Haarlemmermeer",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "2,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Halderberge",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hardenberg",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Harderwijk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hardinxveld-Giessendam",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Harlingen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hattem",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heemskerk",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "5,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heemstede",
+    "Total_reported": 5,
+    "Total_reported_per_100000": "18,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heerde",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "5,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heerenveen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": 2,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heerhugowaard",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heerlen",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "2,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heeze-Leende",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heiloo",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hellendoorn",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hellevoetsluis",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "7,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Helmond",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "6,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "1,1"
+  },
+  {
+    "Municipality_code": "Hendrik-Ido-Ambacht",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hengelo (O.)",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "1,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Het Hogeland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heumen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Heusden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hillegom",
+    "Total_reported": 2,
+    "Total_reported_per_100000": 9,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hilvarenbeek",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "6,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hilversum",
+    "Total_reported": 15,
+    "Total_reported_per_100000": "16,5",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "1,1",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hoeksche Waard",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "1,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hof van Twente",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hollands Kroon",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hoogeveen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hoorn",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "1,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Horst aan de Maas",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Houten",
+    "Total_reported": 3,
+    "Total_reported_per_100000": 6,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Huizen",
+    "Total_reported": 21,
+    "Total_reported_per_100000": "50,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Hulst",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "IJsselstein",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Kaag en Braassem",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Kampen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "1,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Kapelle",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "7,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Katwijk",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "9,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Kerkrade",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Koggenland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Krimpen aan den IJssel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Krimpenerwaard",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "3,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Laarbeek",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Landerd",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Landgraaf",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Landsmeer",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Langedijk",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lansingerland",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "3,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Laren (NH.)",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leeuwarden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leiden",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "1,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leiderdorp",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leidschendam-Voorburg",
+    "Total_reported": 14,
+    "Total_reported_per_100000": "18,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lelystad",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leudal",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "5,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Leusden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lingewaard",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lisse",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lochem",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "5,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Loon op Zand",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Lopik",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Loppersum",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Losser",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Maasdriel",
+    "Total_reported": 9,
+    "Total_reported_per_100000": 36,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Maasgouw",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "8,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Maassluis",
+    "Total_reported": 20,
+    "Total_reported_per_100000": "60,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 5,
+    "Deceased_per_100000": "15,1"
+  },
+  {
+    "Municipality_code": "Maastricht",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "3,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Medemblik",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Meerssen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Meierijstad",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "3,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Meppel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Middelburg (Z.)",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "4,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Midden-Delfland",
+    "Total_reported": 9,
+    "Total_reported_per_100000": "46,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Midden-Drenthe",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Midden-Groningen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Mill en Sint Hubert",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Moerdijk",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Molenlanden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Montferland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Montfoort",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Mook en Middelaar",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Neder-Betuwe",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "12,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nederweert",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nieuwegein",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "4,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nieuwkoop",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nijkerk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nijmegen",
+    "Total_reported": 7,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nissewaard",
+    "Total_reported": 13,
+    "Total_reported_per_100000": "15,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Noardeast-Fryslân",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "4,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Noord-Beveland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Noordenveld",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Noordoostpolder",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Noordwijk",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "4,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nuenen, Gerwen en Nederwetten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Nunspeet",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oegstgeest",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oirschot",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oisterwijk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oldambt",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oldebroek",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oldenzaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Olst-Wijhe",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ommen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oost Gelre",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "20,3",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "3,4",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oosterhout",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "7,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ooststellingwerf",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oostzaan",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Opmeer",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Opsterland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oss",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "4,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oude IJsselstreek",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ouder-Amstel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Oudewater",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Overbetuwe",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Papendrecht",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Peel en Maas",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Pekela",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Pijnacker-Nootdorp",
+    "Total_reported": 12,
+    "Total_reported_per_100000": "21,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Purmerend",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "2,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Putten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Raalte",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Reimerswaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Renkum",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Renswoude",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Reusel-De Mierden",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "7,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rheden",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rhenen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Ridderkerk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rijssen-Holten",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rijswijk (ZH.)",
+    "Total_reported": 8,
+    "Total_reported_per_100000": "14,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Roerdalen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Roermond",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "3,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Roosendaal",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rotterdam",
+    "Total_reported": 96,
+    "Total_reported_per_100000": "14,7",
+    "Hospital_admission": 4,
+    "Hospital_admission_per_100000": "0,6",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rozendaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Rucphen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "4,4"
+  },
+  {
+    "Municipality_code": "Schagen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Scherpenzeel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Schiedam",
+    "Total_reported": 23,
+    "Total_reported_per_100000": "29,2",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "1,3",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Schiermonnikoog",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Schouwen-Duiveland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": 3
+  },
+  {
+    "Municipality_code": "'s-Gravenhage (gemeente)",
+    "Total_reported": 69,
+    "Total_reported_per_100000": "12,6",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "0,2",
+    "Deceased": 5,
+    "Deceased_per_100000": "0,9"
+  },
+  {
+    "Municipality_code": "'s-Hertogenbosch",
+    "Total_reported": 14,
+    "Total_reported_per_100000": 9,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "0,6"
+  },
+  {
+    "Municipality_code": "Simpelveld",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "9,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Sint Anthonis",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "25,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Sint-Michielsgestel",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Sittard-Geleen",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "3,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Sliedrecht",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Sluis",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Smallingerland",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "3,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Soest",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Someren",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Son en Breugel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Stadskanaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Staphorst",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "5,8",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Stede Broec",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Steenbergen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Steenwijkerland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Stein (L.)",
+    "Total_reported": 2,
+    "Total_reported_per_100000": 8,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Stichtse Vecht",
+    "Total_reported": 6,
+    "Total_reported_per_100000": "9,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Súdwest-Fryslân",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Terneuzen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Terschelling",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Texel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Teylingen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tholen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tiel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tilburg",
+    "Total_reported": 8,
+    "Total_reported_per_100000": "3,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tubbergen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Twenterand",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tynaarlo",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Tytsjerksteradiel",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Uden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Uitgeest",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "14,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Uithoorn",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Urk",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Utrecht (gemeente)",
+    "Total_reported": 61,
+    "Total_reported_per_100000": "17,1",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "0,3",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Utrechtse Heuvelrug",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "8,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Vaals",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Valkenburg aan de Geul",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Valkenswaard",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Veendam",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Veenendaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "1,5"
+  },
+  {
+    "Municipality_code": "Veere",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Veldhoven",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Velsen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Venlo",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Venray",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Vijfheerenlanden",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Vlaardingen",
+    "Total_reported": 11,
+    "Total_reported_per_100000": 15,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "1,4"
+  },
+  {
+    "Municipality_code": "Vlieland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Vlissingen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Voerendaal",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Voorschoten",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Voorst",
+    "Total_reported": 13,
+    "Total_reported_per_100000": "52,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Vught",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Waadhoeke",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Waalre",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Waalwijk",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Waddinxveen",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "3,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wageningen",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wassenaar",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "7,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Waterland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Weert",
+    "Total_reported": 2,
+    "Total_reported_per_100000": 4,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Weesp",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "5,1"
+  },
+  {
+    "Municipality_code": "West Betuwe",
+    "Total_reported": 1,
+    "Total_reported_per_100000": 2,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "West Maas en Waal",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "5,2",
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "5,2",
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Westerkwartier",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Westerveld",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Westervoort",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "26,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "6,7"
+  },
+  {
+    "Municipality_code": "Westerwolde",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Westland",
+    "Total_reported": 9,
+    "Total_reported_per_100000": "8,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Weststellingwerf",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Westvoorne",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wierden",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wijchen",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "7,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wijdemeren",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wijk bij Duurstede",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Winterswijk",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Woensdrecht",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "13,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Woerden",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "5,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Wormerland",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "6,1",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Woudenberg",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zaanstad",
+    "Total_reported": 4,
+    "Total_reported_per_100000": "2,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zaltbommel",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "6,9",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zandvoort",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "17,5",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zeewolde",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "4,4",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "4,4"
+  },
+  {
+    "Municipality_code": "Zeist",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "4,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 1,
+    "Deceased_per_100000": "1,5"
+  },
+  {
+    "Municipality_code": "Zevenaar",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zoetermeer",
+    "Total_reported": 15,
+    "Total_reported_per_100000": 12,
+    "Hospital_admission": 1,
+    "Hospital_admission_per_100000": "0,8",
+    "Deceased": 1,
+    "Deceased_per_100000": "0,8"
+  },
+  {
+    "Municipality_code": "Zoeterwoude",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "11,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zuidplas",
+    "Total_reported": 1,
+    "Total_reported_per_100000": "2,3",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zundert",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zutphen",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "4,2",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zwartewaterland",
+    "Total_reported": 0,
+    "Total_reported_per_100000": 0,
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zwijndrecht",
+    "Total_reported": 3,
+    "Total_reported_per_100000": "6,7",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  },
+  {
+    "Municipality_code": "Zwolle",
+    "Total_reported": 2,
+    "Total_reported_per_100000": "1,6",
+    "Hospital_admission": 0,
+    "Hospital_admission_per_100000": 0,
+    "Deceased": 0,
+    "Deceased_per_100000": 0
+  }
+]
