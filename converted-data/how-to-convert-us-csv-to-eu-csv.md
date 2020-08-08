@@ -7,34 +7,47 @@ https://csvjson.com/csv2json
 ### Conversion US type CSV to EU (NL) type CSV
 1) Excel (Dutch)
 Note Data is presented as comma separated
-2) TAB Gegevens > Knop: Tekst naar kolommen
-3) Vink alleen 'comma'
-4) Sla ID-kolom over, Updated-kolom heeft format MDJ, Longitude- en Latitude-kolommen kies format Tekst en Advanced > Kies voor decimal een 'point' en voor duizend separator selecteer 'empty'
-voor getallen-kolommen: standaard en tekst kolommen standaard teks
-5) Converteer
 
-|Updated|               moet worden 'DD-MM-JJJ'
+2)  TAB Gegevens > Knop: Text naar Column
 
-|Confirmed|             getal
-|ConfirmedChange|       getal
-|Deaths|                getal
-|DeathsChange|          getal
-|Recovered|             getal
-|RecoveredChange|       getal
-|Latitude|              TEKST - ADVANCED
-|Longitude|             TEKST - ADVANCED
-|ISO2|                  TEKST - STANDAARD
-|ISO3|                  TEKST - STANDAARD
-|Country_Region|        TEKST - STANDAARD
-|AdminRegion1|          TEKST - STANDAARD
-|AdminRegion2|          TEKST - STANDAARD
+3)  Choose 'comma' as delimiter only
+
+4)  [ID]-Column > Choose 'forget'
+
+5)  [Updated]-Column has format MDJ
+    > Choose *Date  > Select box [MDJ] format
+
+6)  [Confirmed]             Number
+    [ConfirmedChange]       Number
+    [Deaths]                Number
+    [DeathsChange]          Number
+    [Recovered]             Number
+    [RecoveredChange]       Number
+
+7)  [Latitude]              Text - ADVANCED
+    [Longitude]             Text - ADVANCED
+    ------------------------------------------------
+    [Longitude]- en [Latitude]-Columns
+    > Choose *Text > Choose [Advanced] >
+    1) Decimal             > 'comma'-character
+    2)Thousand separator  > 'no'-character
+
+8)  [ISO2]                  Text - STANDARD
+    [ISO3]                  Text - STANDARD
+    [Country_Region]        Text - STANDARD
+    [AdminRegion1]          Text - STANDARD
+    [AdminRegion2]          Text - STANDARD
+
+9) Convert
 
 
 
 
 
 
-### Conversion: Csv To Json 
+
+
+### Conversion: Csv To Json
 
 https://csvjson.com/csv2json
 
@@ -52,22 +65,22 @@ Sources don't always provide counts for all data points, especially recovered ca
 
 ### Where can I see the latest data?
 The most current data available can be found on www.bing.com/covid and in the Bing COVID-19 widget. You can find more information about the Bing COVID-19 widget [here](https://www.bing.com/covid/dev#widget).
- 
+
 ### Why is COVID data different on every website?
 COVID tracking data comes from a wide set of sources that update at different times and may not always align.
 
 ### What about the Bing COVID-19 Widget?
 Learn more about the Bing COVID-19 widget [here](https://github.com/microsoft/COVID-19-Widget).
 
-#### Please reach out to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data. 
+#### Please reach out to BingCovid19DataReqs@microsoft.com for any questions or requests regarding the data.
 
 
-## File naming convention 
-Bing-COVID19-Data.csv is the static filename for the aggregated COVID-19 case count data 
+## File naming convention
+Bing-COVID19-Data.csv is the static filename for the aggregated COVID-19 case count data
 
-## Column descriptions 
+## Column descriptions
 
-|Column header | Description | 
+|Column header | Description |
 |---|---|
 |ID | Unique identifier |
 |Updated| Datetime in UTC |
