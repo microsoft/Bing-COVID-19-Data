@@ -39,8 +39,43 @@ Note Data is presented as comma separated
     [AdminRegion1]          Text - STANDARD
     [AdminRegion2]          Text - STANDARD
 
-9) Convert
+9) Convert  > Result US typed csv converted to Dutch typed csv (presented as .xlsx)
 
+10) Filter for
+    > worldwide
+    Copy filtered data to a new (separate) csv-file  > e.g. wld.csv
+
+11) Filter for
+    > Netherlands
+    Copy filtered data to a new (separate) csv-file  > e.g. nld.csv
+
+12) Convert both csv-files (wld.csv and nld.csv) to json
+    with https://csvjson.com/csv2json
+    Note Always Clear before importing new csv-typed data
+
+13) Store the json-files into the right folder and
+    transform and rename each json.file with Notepad++ to
+    separate typescript typed files (e.g. wld.ts and nl.ts)
+    Note: remove all '"'-quotes from keys
+    [
+        {
+            "Updated": "27-2-2020",
+            ...
+        },
+        ...
+    ]
+    to
+        [
+        {
+            Updated: "27-2-2020",
+            ...
+        },
+        ...
+    ]
+    Now you have valid typescript type files
+    nld.ts
+    wld.ts
+    ready for import in Consult Koen
 
 
 
