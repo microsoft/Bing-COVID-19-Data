@@ -15,7 +15,7 @@ Note Data is presented as comma separated
 4)  [ID]-Column > Choose 'forget'
 
 5)  [Updated]-Column has format MDJ
-    > Choose *Date  > Select box [MDJ] format
+    Choose *Date  > Select box [MDJ] format
 
 6)  [Confirmed]             Number
     [ConfirmedChange]       Number
@@ -28,9 +28,10 @@ Note Data is presented as comma separated
     [Longitude]             Text - ADVANCED
     ------------------------------------------------
     [Longitude]- en [Latitude]-Columns
-    > Choose *Text > Choose [Advanced] >
-    1) Decimal             > 'comma'-character
-    2)Thousand separator  > 'no'-character
+    1) Choose *Text
+    2) Choose [Advanced] >
+        1) Decimal          > 'comma'-character
+        2) 1000 Separator   > 'no'-character
 
 8)  [ISO2]                  Text - STANDARD
     [ISO3]                  Text - STANDARD
