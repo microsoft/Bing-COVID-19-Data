@@ -3246,5 +3246,53 @@
     Country_Region: 'Worldwide',
     AdminRegion1: '',
     AdminRegion2: ''
+  },
+  {
+    Updated: '11-8-2020',
+    Confirmed: 20185153,
+    ConfirmedChange: 227117,
+    Deaths: 738800,
+    DeathsChange: 5911,
+    Recovered: 12450681,
+    RecoveredChange: 292606,
+    Latitude: '',
+    Longitude: '',
+    ISO2: '',
+    ISO3: '',
+    Country_Region: 'Worldwide',
+    AdminRegion1: '',
+    AdminRegion2: ''
+  },
+  {
+    Updated: '12-8-2020',
+    Confirmed: 20423897,
+    ConfirmedChange: 238744,
+    Deaths: 744649,
+    DeathsChange: 5849,
+    Recovered: 12631548,
+    RecoveredChange: 180867,
+    Latitude: '',
+    Longitude: '',
+    ISO2: '',
+    ISO3: '',
+    Country_Region: 'Worldwide',
+    AdminRegion1: '',
+    AdminRegion2: ''
+  },
+  {
+    Updated: '13-8-2020',
+    Confirmed: 20624316,
+    ConfirmedChange: 200419,
+    Deaths: 749421,
+    DeathsChange: 4772,
+    Recovered: 12831800,
+    RecoveredChange: 200252,
+    Latitude: '',
+    Longitude: '',
+    ISO2: '',
+    ISO3: '',
+    Country_Region: 'Worldwide',
+    AdminRegion1: '',
+    AdminRegion2: ''
   }
 ]
