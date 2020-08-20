@@ -3326,5 +3326,53 @@
     "Country_Region": "Worldwide",
     "AdminRegion1": "",
     "AdminRegion2": ""
+  },
+  {
+    "Updated": "16-8-2020",
+    "Confirmed": 21582345,
+    "ConfirmedChange": 301737,
+    "Deaths": 773469,
+    "DeathsChange": 6047,
+    "Recovered": 13590831,
+    "RecoveredChange": 299952,
+    "Latitude": "",
+    "Longitude": "",
+    "ISO2": "",
+    "ISO3": "",
+    "Country_Region": "Worldwide",
+    "AdminRegion1": "",
+    "AdminRegion2": ""
+  },
+  {
+    "Updated": "17-8-2020",
+    "Confirmed": 21739501,
+    "ConfirmedChange": 157156,
+    "Deaths": 776241,
+    "DeathsChange": 2772,
+    "Recovered": 13702873,
+    "RecoveredChange": 112042,
+    "Latitude": "",
+    "Longitude": "",
+    "ISO2": "",
+    "ISO3": "",
+    "Country_Region": "Worldwide",
+    "AdminRegion1": "",
+    "AdminRegion2": ""
+  },
+  {
+    "Updated": "18-8-2020",
+    "Confirmed": 21974393,
+    "ConfirmedChange": 234892,
+    "Deaths": 776157,
+    "DeathsChange": -84,
+    "Recovered": 13934532,
+    "RecoveredChange": 231659,
+    "Latitude": "",
+    "Longitude": "",
+    "ISO2": "",
+    "ISO3": "",
+    "Country_Region": "Worldwide",
+    "AdminRegion1": "",
+    "AdminRegion2": ""
   }
 ]
