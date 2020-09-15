@@ -141,5 +141,27 @@
     Hospital_admission_per_100000: "24137,4",
     Deceased: 6096,
     Deceased_per_100000: "12455,1"
+  },
+  {
+    Updated: "2020-09-01",
+    Country: "Netherlands",
+    Total_reported_per two_weeks: 6530,
+    Total_reported: 68798,
+    Total_reported_per_100000: "124358,8",
+    Hospital_admission: 11365,
+    Hospital_admission_per_100000: "24173,7",
+    Deceased: 6128,
+    Deceased_per_100000: "12504,7"
+  },
+  {
+    Updated: "2020-09-15",
+    Country: "Netherlands",
+    Total_reported_per two_weeks: 12679,
+    Total_reported: 81477,
+    Total_reported_per_100000: "140510,4",
+    Hospital_admission: 11459,
+    Hospital_admission_per_100000: "24246,6",
+    Deceased: 6144,
+    Deceased_per_100000: "12519,2"
   }
 ]
