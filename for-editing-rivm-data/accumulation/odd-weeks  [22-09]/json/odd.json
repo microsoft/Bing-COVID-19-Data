@@ -128,5 +128,25 @@
     "Hospital_admission_per_100000": "24178,5",
     "Deceased": "6123",
     "Deceased_per_100000": "12499"
+  },
+  {
+    "Updated": "2020-09-08",
+    "Total_biweekly_reported": "8312",
+    "Total_reported": "73856",
+    "Total_reported_per_100000": "130323,7",
+    "Hospital_admission": "11398",
+    "Hospital_admission_per_100000": "24220,7",
+    "Deceased": "6147",
+    "Deceased_per_100000": "12523,7"
+  },
+  {
+    "Updated": "2020-09-22",
+    "Total_biweekly_reported": "20086",
+    "Total_reported": "93942",
+    "Total_reported_per_100000": "157028,5",
+    "Hospital_admission": "11573",
+    "Hospital_admission_per_100000": "24416,4",
+    "Deceased": "6182",
+    "Deceased_per_100000": "12568,1"
   }
 ]
