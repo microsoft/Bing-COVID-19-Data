@@ -1,0 +1,17 @@
+[
+  {
+    "Updated": "2020-11-03",
+    "Total_reported_weekly": 162943,
+    "Total_reported": 389819,
+    "Total_reported_per_100000_weekly": 310923,
+    "Total_reported_per_100000": "698811,2",
+    "Hospital_admission_weekly": 1035,
+    "Hospital_admission": 13637,
+    "Hospital_admission_per_100000_weekly": "1942,3",
+    "Hospital_admission_per_100000": "28065,8",
+    "Deceased_weekly": 652,
+    "Deceased": 7232,
+    "Deceased_per_100000_weekly": "1319,2",
+    "Deceased_per_100000": "14593,3"
+  }
+]
