@@ -1850,78 +1850,91 @@
     {
         "Date": "2020-11-07",
         "Rt_low": 1.02,
+        "Rt_avg": null,
         "Rt_up": 1.07,
         "population": "testpos"
     },
     {
         "Date": "2020-11-08",
         "Rt_low": 1.02,
+        "Rt_avg": null,
         "Rt_up": 1.08,
         "population": "testpos"
     },
     {
         "Date": "2020-11-09",
         "Rt_low": 1.03,
+        "Rt_avg": null,
         "Rt_up": 1.08,
         "population": "testpos"
     },
     {
         "Date": "2020-11-10",
         "Rt_low": 1.03,
+        "Rt_avg": null,
         "Rt_up": 1.09,
         "population": "testpos"
     },
     {
         "Date": "2020-11-11",
         "Rt_low": 1.04,
+        "Rt_avg": null,
         "Rt_up": 1.1,
         "population": "testpos"
     },
     {
         "Date": "2020-11-12",
         "Rt_low": 1.03,
+        "Rt_avg": null,
         "Rt_up": 1.1,
         "population": "testpos"
     },
     {
         "Date": "2020-11-13",
         "Rt_low": 1,
+        "Rt_avg": null,
         "Rt_up": 1.07,
         "population": "testpos"
     },
     {
         "Date": "2020-11-14",
         "Rt_low": 0.94,
+        "Rt_avg": null,
         "Rt_up": 1.02,
         "population": "testpos"
     },
     {
         "Date": "2020-11-15",
         "Rt_low": 0.85,
+        "Rt_avg": null,
         "Rt_up": 0.94,
         "population": "testpos"
     },
     {
         "Date": "2020-11-16",
         "Rt_low": 0.75,
+        "Rt_avg": null,
         "Rt_up": 0.88,
         "population": "testpos"
     },
     {
         "Date": "2020-11-17",
         "Rt_low": 0.67,
+        "Rt_avg": null,
         "Rt_up": 0.84,
         "population": "testpos"
     },
     {
         "Date": "2020-11-18",
         "Rt_low": 0.61,
+        "Rt_avg": null,
         "Rt_up": 0.85,
         "population": "testpos"
     },
     {
         "Date": "2020-11-19",
         "Rt_low": 0.57,
+        "Rt_avg": null,
         "Rt_up": 0.87,
         "population": "testpos"
     }
