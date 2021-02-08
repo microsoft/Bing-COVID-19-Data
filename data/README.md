@@ -25,3 +25,6 @@ Bing-COVID19-Data.csv is the static filename for the aggregated COVID-19 case co
 
 ## Update frequency
 The data is updated once a day (around 3AM PST).
+
+## Move to git large file storage
+In Dec 2020, the file size inceased to larger than 100MB, which is the maximun file size supported as a regular file in git hub, so we moved the file to git large file storage, and the downloading URL is updated as well.
