@@ -1,3 +1,7 @@
+> **Note**
+```diff
+- Bing COVID-19 data publishing will be retired by March 5, 2023.
+```
 # Bing COVID-19 data
 
 ## FAQ
